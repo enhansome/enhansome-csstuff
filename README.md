@@ -23,9 +23,9 @@
 
 ## Computer Science general
 
-* [Coding Interview University](https://github.com/jwasham/coding-interview-university) ⭐ 359,933 | 🐛 126 | 📅 2025-08-28
-* [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 240,966 | 🐛 170 | 📅 2024-11-19
-* [z3](https://github.com/Z3Prover/z3) ⭐ 12,614 | 🐛 57 | 🌐 C++ | 📅 2026-08-29: The Z3 Theorem Prover
+* [Coding Interview University](https://github.com/jwasham/coding-interview-university) ⭐ 359,978 | 🐛 126 | 📅 2025-08-28
+* [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 241,125 | 🐛 171 | 📅 2024-11-19
+* [z3](https://github.com/Z3Prover/z3) ⭐ 12,617 | 🐛 58 | 🌐 C++ | 📅 2026-08-30: The Z3 Theorem Prover
 * [elkai](https://github.com/pyEntropy/elkai) ⭐ 199 | 🐛 15 | 🌐 Python | 📅 2024-12-23: Python 3 TSP solver based on LKH (cross platform)
 * [Platform Design](https://github.com/dcuartielles/platform-design) ⭐ 26 | 🐛 2 | 📅 2023-10-18 is the repository including the text created by D. Cuartielles for his doctoral dissertation published by Malmo University Press in 2018.
 * (pt-br) [extensao-computacao](https://github.com/adolfont/extensao-computacao/) ⭐ 1 | 🐛 0 | 📅 2020-07-31: Iniciativas de Extensão na Área de Computação.
@@ -62,9 +62,9 @@
 
 ### Databases
 
-* [ClickHouse](https://github.com/ClickHouse/ClickHouse) ⭐ 49,517 | 🐛 7,242 | 🌐 C++ | 📅 2026-08-29: is a free analytics DBMS for big data.
-* [HikariCP](https://github.com/brettwooldridge/HikariCP) ⭐ 21,193 | 🐛 544 | 🌐 Java | 📅 2026-06-14: 光 HikariCP・A solid, high-performance, JDBC connection pool at last.
-* [quick-SQL-cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet) ⭐ 5,452 | 🐛 11 | 📅 2020-10-01: A quick reminder of all SQL queries and examples on how to use them.
+* [ClickHouse](https://github.com/ClickHouse/ClickHouse) ⭐ 49,530 | 🐛 7,187 | 🌐 C++ | 📅 2026-08-30: is a free analytics DBMS for big data.
+* [HikariCP](https://github.com/brettwooldridge/HikariCP) ⭐ 21,194 | 🐛 544 | 🌐 Java | 📅 2026-06-14: 光 HikariCP・A solid, high-performance, JDBC connection pool at last.
+* [quick-SQL-cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet) ⭐ 5,454 | 🐛 11 | 📅 2020-10-01: A quick reminder of all SQL queries and examples on how to use them.
 * [pgFormatter](https://github.com/darold/pgFormatter) ⭐ 1,953 | 🐛 25 | 🌐 PLpgSQL | 📅 2026-08-15: A PostgreSQL SQL syntax beautifier that can work as a console program or as a CGI. On-line demo [site](http://sqlformat.darold.net/)
 * [litetree](https://github.com/aergoio/litetree) ⭐ 1,638 | 🐛 9 | 🌐 C | 📅 2026-04-27: SQLite with Branches
 * [litetree](https://github.com/aergoio/litetree) ⭐ 1,638 | 🐛 9 | 🌐 C | 📅 2026-04-27: SQLite with Branches
@@ -100,18 +100,18 @@
 
 ### Programming
 
-* [Every Programmer Should Know thinking](https://github.com/mtdvio/every-programmer-should-know) ⭐ 100,346 | 🐛 25 | 📅 2025-12-29: A collection of (mostly) technical things every software developer should know
+* [Every Programmer Should Know thinking](https://github.com/mtdvio/every-programmer-should-know) ⭐ 100,349 | 🐛 25 | 📅 2025-12-29: A collection of (mostly) technical things every software developer should know
 * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) ⚠️ Archived: Some useful websites for programmers.
-* [Prettier is an opinionated code formatter](https://github.com/prettier/prettier) ⭐ 52,216 | 🐛 1,417 | 🌐 JavaScript | 📅 2026-08-29
-* [Mega Project List](https://github.com/karan/Projects) ⭐ 47,897 | 🐛 123 | 📅 2024-08-14: A list of practical projects that anyone can solve in any programming language.
-* [dev.to](https://github.com/thepracticaldev/dev.to) ⭐ 22,774 | 🐛 127 | 🌐 Ruby | 📅 2026-08-28: Where programmers share ideas and help each other grow
-* [Flow](https://github.com/facebook/flow) ⭐ 22,280 | 🐛 524 | 🌐 Rust | 📅 2026-08-29: Adds static typing to JavaScript to improve developer productivity and code quality.
+* [Prettier is an opinionated code formatter](https://github.com/prettier/prettier) ⭐ 52,222 | 🐛 1,417 | 🌐 JavaScript | 📅 2026-08-29
+* [Mega Project List](https://github.com/karan/Projects) ⭐ 47,898 | 🐛 123 | 📅 2024-08-14: A list of practical projects that anyone can solve in any programming language.
+* [dev.to](https://github.com/thepracticaldev/dev.to) ⭐ 22,773 | 🐛 130 | 🌐 Ruby | 📅 2026-08-30: Where programmers share ideas and help each other grow
+* [Flow](https://github.com/facebook/flow) ⭐ 22,281 | 🐛 524 | 🌐 Rust | 📅 2026-08-29: Adds static typing to JavaScript to improve developer productivity and code quality.
 * [Quine Relay](https://github.com/mame/quine-relay) ⭐ 14,591 | 🐛 18 | 🌐 Ruby | 📅 2025-10-24: An uroboros program with 100+ programming languages.
 * [semantic](https://github.com/github/semantic) ⚠️ Archived: Parsing, analyzing, and comparing source code across many languages
 * [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/): this web page contains a free electronic version of my (soon to be) self-published textbook Algorithms, along with other lecture notes I have written for various theoretical computer science classes at the University of Illinois, Urbana-Champaign since 1998. [github](https://github.com/jeffgerickson/algorithms) ⭐ 8,128 | 🐛 173 | 📅 2019-11-23
-* [Programming Talks](https://github.com/hellerve/programming-talks) ⭐ 7,368 | 🐛 2 | 🌐 Python | 📅 2026-08-07: Awesome & interesting talks about programming
+* [Programming Talks](https://github.com/hellerve/programming-talks) ⭐ 7,367 | 🐛 2 | 🌐 Python | 📅 2026-08-07: Awesome & interesting talks about programming
 * (pt-br) [Canais Brasileiros para Pessoas Desenvolvedoras](https://github.com/carolcodes/youtube-br-desenvolvimento) ⭐ 2,505 | 🐛 0 | 🌐 Ruby | 📅 2025-03-24: Repositório de canais no Youtube BR sobre desenvolvimento.
-* [small](https://github.com/mathiasbynens/small) ⭐ 2,300 | 🐛 55 | 🌐 HTML | 📅 2024-07-18: Smallest possible syntactically valid files of different types.
+* [small](https://github.com/mathiasbynens/small) ⭐ 2,301 | 🐛 55 | 🌐 HTML | 📅 2024-07-18: Smallest possible syntactically valid files of different types.
 * [Concurrency Glossary](https://slikts.github.io/concurrency-glossa): This is an informal top-level overview of terms used in concurrent computing - [github](https://github.com/slikts/concurrency-glossary) ⭐ 330 | 🐛 2 | 🌐 HTML | 📅 2020-06-01.
 * [EXEgesis](https://github.com/google/EXEgesis) ⚠️ Archived: Google's EXEgesis project aims to improve code generation in compilers.
 * (pt-br) [OsProgramadores](https://osprogramadores.com) - [op-desafios](https://github.com/OsProgramadores/op-desafios) ⭐ 159 | 🐛 4 | 🌐 C | 📅 2026-08-17: Soluções para os desafios (por usuário)
@@ -161,8 +161,8 @@
 
 #### IDEs
 
-* [vscodium](https://github.com/VSCodium/vscodium) ⭐ 33,011 | 🐛 139 | 🌐 Shell | 📅 2026-08-28: binary releases of VS Code without MS branding/telemetry/licensing
-  * [awesome-vscode](https://github.com/viatsko/awesome-vscode) ⭐ 28,982 | 🐛 54 | 🌐 JavaScript | 📅 2026-06-21: art A curated list of delightful VS Code packages and resources.
+* [vscodium](https://github.com/VSCodium/vscodium) ⭐ 33,023 | 🐛 138 | 🌐 Shell | 📅 2026-08-28: binary releases of VS Code without MS branding/telemetry/licensing
+  * [awesome-vscode](https://github.com/viatsko/awesome-vscode) ⭐ 28,986 | 🐛 54 | 🌐 JavaScript | 📅 2026-06-21: art A curated list of delightful VS Code packages and resources.
   * [Why I wrote 33 VSCode extensions and how I manage them](https://medium.com/@fabiospampinato/why-i-wrote-33-vscode-extensions-and-how-i-manage-them-cb61df05e154)
   * [VS Code Live Share plugin](https://fedoramagazine.org/vs-code-live-share-plugin/)
 * [geany-dark-scheme](https://github.com/Wayn0/geany-dark-scheme) ⭐ 44 | 🐛 18 | 🌐 R | 📅 2018-08-27: Dark syntax theme for the Geany text editor.
@@ -183,7 +183,7 @@
 
 * GDB:
   * [gdbgui](https://github.com/cs01/gdbgui/) ⭐ 10,349 | 🐛 179 | 🌐 TypeScript | 📅 2025-06-29: Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
-  * [PEDA](https://github.com/longld/peda) ⭐ 6,147 | 🐛 76 | 🌐 Python | 📅 2024-07-29:  Python Exploit Development Assistance for GDB
+  * [PEDA](https://github.com/longld/peda) ⭐ 6,148 | 🐛 76 | 🌐 Python | 📅 2024-07-29:  Python Exploit Development Assistance for GDB
   * [Debugging with GDB](https://sourceware.org/gdb/current/onlinedocs/gdb)
   * [Controlling GDB](https://sourceware.org/gdb/current/onlinedocs/gdb/Controlling-GDB.html)
   * [How to look at the stack with gdb](https://jvns.ca/blog/2021/05/17/how-to-look-at-the-stack-in-gdb/)
@@ -218,14 +218,14 @@
 
 #### C/C++
 
-* [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) ⭐ 45,284 | 🐛 246 | 🌐 CSS | 📅 2026-08-06: The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
-* [Microsoft's C++ Standard Library](https://github.com/microsoft/STL) ⭐ 11,137 | 🐛 591 | 🌐 C++ | 📅 2026-08-29: MSVC's implementation of the C++ Standard Library.
+* [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) ⭐ 45,286 | 🐛 246 | 🌐 CSS | 📅 2026-08-06: The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
+* [Microsoft's C++ Standard Library](https://github.com/microsoft/STL) ⭐ 11,137 | 🐛 593 | 🌐 C++ | 📅 2026-08-29: MSVC's implementation of the C++ Standard Library.
 * mozilla [rr](https://github.com/mozilla/rr) ⭐ 10,633 | 🐛 481 | 🌐 C++ | 📅 2026-08-16: is a lightweight tool for recording, replaying and debugging execution of applications (trees of processes and threads). Debugging extends gdb with very efficient reverse-execution, which in combination with standard gdb/x86 features like hardware data watchpoints, makes debugging much more fun.
-* [GuiLite](https://github.com/idea4good/GuiLite) ⭐ 7,767 | 🐛 18 | 🌐 C++ | 📅 2025-10-22: heavy\_check\_markThe smallest UI framework for all platform -- 5K lines code
+* [GuiLite](https://github.com/idea4good/GuiLite) ⭐ 7,766 | 🐛 18 | 🌐 C++ | 📅 2025-10-22: heavy\_check\_markThe smallest UI framework for all platform -- 5K lines code
 * [libpostal](https://github.com/openvenues/libpostal) ⭐ 4,879 | 🐛 299 | 🌐 C | 📅 2026-05-13: A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
 * [memory-profiler](https://github.com/nokia/memory-profiler) ⭐ 4,805 | 🐛 52 | 🌐 C | 📅 2023-07-28
 * [Checked C](https://github.com/microsoft/checkedc) ⭐ 3,257 | 🐛 74 | 🌐 C | 📅 2024-10-07 is an extension to C that adds checking to detect or prevent common programming errors such as buffer overruns and out-of-bounds memory accesses. This repo has a wiki for Checked C, sample code, the specification, and test code.
-* [Intel SPMD Program Compiler](https://ispc.github.io/): ispc is a compiler for a variant of the C programming language, with extensions for "single program, multiple data" (SPMD) programming. Under the SPMD model, the programmer writes a program that generally appears to be a regular serial program, though the execution model is actually that a number of program instances execute in parallel on the hardware. [github](https://github.com/ispc/ispc/) ⭐ 2,949 | 🐛 281 | 🌐 C++ | 📅 2026-08-26
+* [Intel SPMD Program Compiler](https://ispc.github.io/): ispc is a compiler for a variant of the C programming language, with extensions for "single program, multiple data" (SPMD) programming. Under the SPMD model, the programmer writes a program that generally appears to be a regular serial program, though the execution model is actually that a number of program instances execute in parallel on the hardware. [github](https://github.com/ispc/ispc/) ⭐ 2,950 | 🐛 281 | 🌐 C++ | 📅 2026-08-26
 * [9cc](https://github.com/rui314/9cc) ⭐ 1,949 | 🐛 15 | 🌐 C | 📅 2020-11-28: A Small C Compiler
 * [datatype99](https://github.com/Hirrolot/datatype99) ⭐ 1,508 | 🐛 0 | 🌐 C | 📅 2025-03-17: Algebraic data types for C99
 * [libtcod](https://github.com/libtcod/libtcod) ⭐ 1,219 | 🐛 27 | 🌐 C | 📅 2026-07-20: The official repository for libtcod. A roguelike development library.
@@ -274,7 +274,7 @@
 * [cnp](https://github.com/aicodix/cnp): Check Node Processor in VHDL for LDPC decoding.
 * [The problem with C](https://cor3ntin.github.io/posts/c/)
 * TDD C:
-  * [Google Test](https://github.com/google/googletest) ⭐ 39,211 | 🐛 493 | 🌐 C++ | 📅 2026-08-27: Google Testing and Mocking Framework.
+  * [Google Test](https://github.com/google/googletest) ⭐ 39,338 | 🐛 495 | 🌐 C++ | 📅 2026-08-27: Google Testing and Mocking Framework.
   * [Modern C++ Programming with Test-Driven Development](https://pragprog.com/titles/lotdd/modern-c-programming-with-test-driven-development/) by [Jeff Langr](https://github.com/jlangr)
   * [The Biggest Problems of Unit Testing With C++](https://dzone.com/articles/the-biggest-problems-of-unit-testing-with-c)
 * [Modern C](https://modernc.gforge.inria.fr/) by Jens Gustedt
@@ -292,7 +292,7 @@
 
 ##### KDE/Qt and GTK
 
-* [Foliate](https://github.com/johnfactotum/foliate) ⭐ 8,672 | 🐛 317 | 🌐 JavaScript | 📅 2026-04-08: A simple and modern GTK eBook viewer, built with GJS and Epub.js.
+* [Foliate](https://github.com/johnfactotum/foliate) ⭐ 8,672 | 🐛 316 | 🌐 JavaScript | 📅 2026-04-08: A simple and modern GTK eBook viewer, built with GJS and Epub.js.
 * [BitsOfBytes](https://github.com/vivaladav/BitsOfBytes) ⭐ 118 | 🐛 1 | 🌐 C++ | 📅 2020-08-19: Code and projects from my blog posts.
 * [Qt-CMake-HelloWorld](https://github.com/jasondegraw/Qt-CMake-HelloWorld) ⭐ 96 | 🐛 2 | 🌐 CMake | 📅 2021-08-12: A Simple Qt5 Program Built with CMake
 * [Atelier](https://github.com/kde/atelier) ⭐ 34 | 🐛 0 | 🌐 C++ | 📅 2026-08-20: Open Source 3D Printing Host - User Interface
@@ -301,28 +301,28 @@
 
 #### Python
 
-* [A curated list of awesome Python frameworks, libraries, software and resources](https://github.com/vinta/awesome-python#authentication) ⭐ 316,834 | 🐛 18 | 🌐 Python | 📅 2026-08-25
-* [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) ⭐ 224,084 | 🐛 1,063 | 🌐 Python | 📅 2026-08-29: All Algorithms implemented in Python
-* [FastAPI](https://github.com/tiangolo/fastapi) ⭐ 101,916 | 🐛 79 | 🌐 Python | 📅 2026-08-26 framework, high performance, easy to learn, fast to code, ready for production
-* cython [dtoa.c](https://github.com/python/cpython/blob/master/Python/dtoa.c) ⭐ 75,029 | 🐛 9,626 | 🌐 Python | 📅 2026-08-29
-* [Rich](https://github.com/willmcgugan/rich) ⭐ 57,271 | 🐛 372 | 🌐 Python | 📅 2026-06-23 is a Python library for rich text and beautiful formatting in the terminal.
-* [black](https://github.com/ambv/black/) ⭐ 41,820 | 🐛 304 | 🌐 Python | 📅 2026-08-20: The uncompromising Python code formatter
-* [wtfpython](https://github.com/satwikkansal/wtfpython#-is-not--is-not-is-not-) ⭐ 37,069 | 🐛 72 | 🌐 Python | 📅 2026-01-13: A collection of surprising Python snippets and lesser-known features.
-* [wtfpython](https://github.com/satwikkansal/wtfpython) ⭐ 37,069 | 🐛 72 | 🌐 Python | 📅 2026-01-13: What the f\*ck Python? ￼
+* [A curated list of awesome Python frameworks, libraries, software and resources](https://github.com/vinta/awesome-python#authentication) ⭐ 317,055 | 🐛 18 | 🌐 Python | 📅 2026-08-25
+* [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) ⭐ 224,117 | 🐛 1,064 | 🌐 Python | 📅 2026-08-29: All Algorithms implemented in Python
+* [FastAPI](https://github.com/tiangolo/fastapi) ⭐ 101,930 | 🐛 80 | 🌐 Python | 📅 2026-08-26 framework, high performance, easy to learn, fast to code, ready for production
+* cython [dtoa.c](https://github.com/python/cpython/blob/master/Python/dtoa.c) ⭐ 75,283 | 🐛 9,612 | 🌐 Python | 📅 2026-08-30
+* [Rich](https://github.com/willmcgugan/rich) ⭐ 57,275 | 🐛 372 | 🌐 Python | 📅 2026-06-23 is a Python library for rich text and beautiful formatting in the terminal.
+* [black](https://github.com/ambv/black/) ⭐ 41,821 | 🐛 304 | 🌐 Python | 📅 2026-08-20: The uncompromising Python code formatter
+* [wtfpython](https://github.com/satwikkansal/wtfpython#-is-not--is-not-is-not-) ⭐ 37,071 | 🐛 72 | 🌐 Python | 📅 2026-01-13: A collection of surprising Python snippets and lesser-known features.
+* [wtfpython](https://github.com/satwikkansal/wtfpython) ⭐ 37,071 | 🐛 72 | 🌐 Python | 📅 2026-01-13: What the f\*ck Python? ￼
 * [Course Files for Complete Python 3 Bootcamp Course on Udemy](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) ⭐ 29,741 | 🐛 271 | 🌐 Jupyter Notebook | 📅 2025-06-24
-* [RustPython](https://github.com/RustPython/RustPython) ⭐ 22,310 | 🐛 398 | 🌐 Rust | 📅 2026-08-28A Python Interpreter written in Rust
-* [kivy](https://github.com/kivy/kivy) ⭐ 19,011 | 🐛 850 | 🌐 Python | 📅 2026-08-28: Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS.
-* [Modular visual interface for GDB in Python](https://github.com/cyrus-and/gdb-dashboard) ⭐ 12,243 | 🐛 19 | 🌐 Python | 📅 2026-07-17
-* [Python Prompt Toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) ⭐ 10,563 | 🐛 708 | 🌐 Python | 📅 2026-07-26: Library for building powerful interactive command line applications in Python.
+* [RustPython](https://github.com/RustPython/RustPython) ⭐ 22,314 | 🐛 398 | 🌐 Rust | 📅 2026-08-30A Python Interpreter written in Rust
+* [kivy](https://github.com/kivy/kivy) ⭐ 19,013 | 🐛 850 | 🌐 Python | 📅 2026-08-28: Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS.
+* [Modular visual interface for GDB in Python](https://github.com/cyrus-and/gdb-dashboard) ⭐ 12,245 | 🐛 19 | 🌐 Python | 📅 2026-07-17
+* [Python Prompt Toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) ⭐ 10,564 | 🐛 708 | 🌐 Python | 📅 2026-07-26: Library for building powerful interactive command line applications in Python.
 * [faust](https://github.com/robinhood/faust) ⭐ 6,825 | 🐛 279 | 🌐 Python | 📅 2024-07-27: Python Stream Processing
 * [alive-progress](https://github.com/rsalmei/alive-progress) ⭐ 6,296 | 🐛 17 | 🌐 Python | 📅 2026-05-24: An animated and smart Progress Bar for python.
 * [Fluent Python Codes](https://github.com/fluentpython/example-code) ⚠️ Archived: Example code for the book Fluent Python by Luciano Ramalho (O'Reilly, 2014).
   * [Fluent Python: notebooks](https://github.com/AllenDowney/fluent-python-notebooks) ⭐ 104 | 🐛 4 | 🌐 Python | 📅 2023-01-27: Jupyter notebooks and example code for the book Fluent Python
 * [Coconut Lang](https://github.com/evhub/coconut) ⭐ 4,352 | 🐛 90 | 🌐 Python | 📅 2026-02-16
-* [cinder](https://github.com/facebookincubator/cinder) ⭐ 3,790 | 🐛 33 | 🌐 Python | 📅 2026-08-28
+* [cinder](https://github.com/facebookincubator/cinder) ⭐ 3,790 | 🐛 33 | 🌐 Python | 📅 2026-08-30
 * [Think Python](http://greenteapress.com/wp/think-python-2e/) by [AllenDowney](https://github.com/AllenDowney), including [repo](https://github.com/AllenDowney/ThinkPython2) ⭐ 2,645 | 🐛 1 | 🌐 TeX | 📅 2024-04-09
-* [OpenTelemetry Python](https://github.com/open-telemetry/opentelemetry-python) ⭐ 2,603 | 🐛 399 | 🌐 Python | 📅 2026-08-28: OpenTelemetry Python API and SDK
-* [austin](https://github.com/P403n1x87/austin) ⭐ 2,209 | 🐛 8 | 🌐 C | 📅 2026-08-25: Python frame stack sampler for CPython. Austin has a [tui](https://github.com/P403n1x87/austin-tui) ⭐ 665 | 🐛 2 | 🌐 Python | 📅 2026-06-04: The top-like text-based user interface for Austin.
+* [OpenTelemetry Python](https://github.com/open-telemetry/opentelemetry-python) ⭐ 2,604 | 🐛 402 | 🌐 Python | 📅 2026-08-28: OpenTelemetry Python API and SDK
+* [austin](https://github.com/P403n1x87/austin) ⭐ 2,210 | 🐛 8 | 🌐 C | 📅 2026-08-25: Python frame stack sampler for CPython. Austin has a [tui](https://github.com/P403n1x87/austin-tui) ⭐ 665 | 🐛 2 | 🌐 Python | 📅 2026-06-04: The top-like text-based user interface for Austin.
 * [cookiecutter-hypermodern-python](https://github.com/cjolowicz/cookiecutter-hypermodern-python) ⭐ 1,924 | 🐛 105 | 🌐 Python | 📅 2024-05-18: Cookiecutter template for a Python package based on the [Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-06-ci-cd/) [article series](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/).
 * [Python Verbal Expressions](https://github.com/VerbalExpressions/PythonVerbalExpressions) ⭐ 1,633 | 🐛 8 | 🌐 Python | 📅 2024-04-28: Python regular expressions made easy
 * [wallaroo](https://github.com/WallarooLabs/wallaroo) ⭐ 1,482 | 🐛 348 | 🌐 Pony | 📅 2021-04-06: Build and scale real-time data applications as easily as writing a Python script - by [wallaroo labs](https://www.wallaroolabs.com/)
@@ -405,11 +405,11 @@
 
 #### Others
 
-* [vyper](https://github.com/ethereum/vyper/) ⭐ 5,180 | 🐛 642 | 🌐 Python | 📅 2026-08-28:
+* [vyper](https://github.com/ethereum/vyper/) ⭐ 5,180 | 🐛 641 | 🌐 Python | 📅 2026-08-29:
   * Watch Your Language: [Our First Vyper Audit](https://blog.trailofbits.com/2019/10/24/watch-your-language-our-first-vyper-audit/)
 * [Sacara](https://github.com/enkomio/sacara) ⭐ 122 | 🐛 0 | 🌐 F# | 📅 2019-12-17: A stack based intermediate language aimed at software protection by running in a software VM.
 * Agda:
-  * [Agda 2](https://github.com/agda/agda) ⭐ 2,919 | 🐛 1,036 | 🌐 Haskell | 📅 2026-08-28
+  * [Agda 2](https://github.com/agda/agda) ⭐ 2,919 | 🐛 1,036 | 🌐 Haskell | 📅 2026-08-30
   * [plfa](https://github.com/plfa/plfa.github.io/) ⭐ 1,514 | 🐛 65 | 🌐 Agda | 📅 2026-08-24: Introduction to programming language theory in Agda and [Programming Language Foundations in Agda](https://plfa.github.io/).
 * Anglican:
   * [Anglican](https://probprog.github.io/anglican/index.html): A Probabilistic Programming System.
@@ -418,7 +418,7 @@
 * Brainfuck:
   * [Brainfuck](https://www.dcode.fr/brainfuck-language) encoder/decoder.
 * Dafny:
-  * [dafny](https://github.com/Microsoft/dafny) ⭐ 3,519 | 🐛 1,383 | 🌐 C# | 📅 2026-08-28: Dafny is a verification-aware programming language.
+  * [dafny](https://github.com/Microsoft/dafny) ⭐ 3,520 | 🐛 1,383 | 🌐 C# | 📅 2026-08-29: Dafny is a verification-aware programming language.
 * Clean:
   * [Clean](https://clean.cs.ru.nl/Clean): Clean is a general purpose, state-of-the-art, pure and lazy functional programming language designed for making real-world applications. Some of its most notable language features are uniqueness typing, dynamic typing, and generic functions.
 * Elixir:
@@ -426,7 +426,7 @@
   * [dialyxir](https://github.com/jeremyjh/dialyxir) ⭐ 1,795 | 🐛 76 | 🌐 Elixir | 📅 2026-08-25: Mix tasks to simplify use of Dialyzer in Elixir projects.
   * (pt-br) [Learn Functional Programming with Elixir](https://github.com/ulissesalmeida/learn-fp-with-elixir-exercises) ⭐ 4 | 🐛 0 | 🌐 Elixir | 📅 2019-04-17.
 * Go:
-  * [Awesome Go](https://github.com/avelino/awesome-go) ⭐ 182,569 | 🐛 219 | 🌐 Go | 📅 2026-08-29: A curated list of awesome Go frameworks, libraries and software
+  * [Awesome Go](https://github.com/avelino/awesome-go) ⭐ 182,657 | 🐛 220 | 🌐 Go | 📅 2026-08-30: A curated list of awesome Go frameworks, libraries and software
   * [lattigo](https://github.com/lca1/lattigo) ⭐ 1,441 | 🐛 7 | 🌐 Go | 📅 2026-06-16: A lattice-based cryptographic library in Go.
   * [ObjectBox Go](https://github.com/objectbox/objectbox-go) ⭐ 1,274 | 🐛 19 | 🌐 Go | 📅 2025-03-12: persisting your Go structs/objects superfast and simple
   * [Go references](https://standupdev.com/wiki/doku.php?id=go_references)
@@ -436,10 +436,10 @@
   * [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/)
   * [Getting Started with Haskell on Fedora](https://fedoramagazine.org/getting-started-with-haskell-on-fedora/)
 * Java:
-  * [1brc](https://github.com/gunnarmorling/1brc) ⭐ 8,108 | 🐛 42 | 🌐 Java | 📅 2024-08-20: [The One Billion Row Challenge](https://www.morling.dev/blog/one-billion-row-challenge/) -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
+  * [1brc](https://github.com/gunnarmorling/1brc) ⭐ 8,109 | 🐛 42 | 🌐 Java | 📅 2024-08-20: [The One Billion Row Challenge](https://www.morling.dev/blog/one-billion-row-challenge/) -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
   * [Procyon](https://github.com/mstrobel/procyon) ⭐ 1,212 | 🐛 59 | 🌐 Java | 📅 2022-06-12: is a suite of Java metaprogramming tools, including a rich reflection API, a LINQ-inspired expression tree API for runtime code generation, and a Java decompiler.
 * JavaScript:
-  * [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,577 | 🐛 404 | 🌐 JavaScript | 📅 2026-07-26: Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
+  * [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,579 | 🐛 404 | 🌐 JavaScript | 📅 2026-07-26: Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
   * [The JavaScript Handbook](https://jshandbook.com/)
 * K:
   * [k tutorial](https://shakti.com/tutorial/)
@@ -450,14 +450,14 @@
   * [Ferret](https://github.com/nakkaya/ferret) ⭐ 1,125 | 🐛 15 | 🌐 Makefile | 📅 2022-08-31 is a free software lisp implementation for real time embedded control systems.
   * [LISP, THE UNIVERSE AND EVERYTHING](https://lisp-univ-etc.blogspot.com/2019/07/programming-algorithms-book.html).
 * Lua:
-  * [xmake](https://github.com/xmake-io/xmake) ⭐ 12,170 | 🐛 249 | 🌐 Lua | 📅 2026-08-28: 🔥 A cross-platform build [utility based on Lua](https://xmake.io)
+  * [xmake](https://github.com/xmake-io/xmake) ⭐ 12,174 | 🐛 248 | 🌐 Lua | 📅 2026-08-28: 🔥 A cross-platform build [utility based on Lua](https://xmake.io)
 * Nim:
-  * [nim](https://nim-lang.org/): Efficient and expressive programming. [github](https://github.com/nim-lang/nim) ⭐ 18,199 | 🐛 2,194 | 🌐 Nim | 📅 2026-08-29
+  * [nim](https://nim-lang.org/): Efficient and expressive programming. [github](https://github.com/nim-lang/nim) ⭐ 18,203 | 🐛 2,189 | 🌐 Nim | 📅 2026-08-29
 * Perl:
   * Larry Wall's [Very Own](http://www.wall.org/~larry/) Home Page
   * [Perl is dying quick](https://thehftguy.com/2019/10/07/perl-is-dying-quick-could-be-extinct-by-2023/). Could be extinct by 2023.
 * PHP:
-  * [A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem](https://github.com/chiraggude/awesome-laravel) ⭐ 13,094 | 🐛 88 | 📅 2024-07-03
+  * [A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem](https://github.com/chiraggude/awesome-laravel) ⭐ 13,095 | 🐛 88 | 📅 2024-07-03
   * [Topological Sort / Dependency resolver in PHP](https://github.com/marcj/topsort.php) ⭐ 248 | 🐛 2 | 🌐 PHP | 📅 2023-09-24: High-Performance Topological Sort / Dependency resolver in PHP.
   * [Setup VS Code for Efficient PHP development](https://blog.theodo.com/2019/07/vscode-php-development/)
 * Ruby:
@@ -465,7 +465,7 @@
   * [UNUSED](https://unused.codes/): [dentify cruft in a codebase with ease](https://github.com/unused-code/unused) ⭐ 307 | 🐛 5 | 🌐 Rust | 📅 2026-03-08.
   * [Ruby Garbage Collection Deep Dive: GC::INTERNAL\_CONSTANTS](https://jemma.dev/blog/gc-internal)
 * Rust:
-  * [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 59,032 | 🐛 8 | 🌐 Rust | 📅 2026-08-28: A curated list of Rust code and resources.
+  * [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 59,053 | 🐛 7 | 🌐 Rust | 📅 2026-08-29: A curated list of Rust code and resources.
   * [Guide to develop secure applications with Rust](https://github.com/ANSSI-FR/rust-guide) ⭐ 650 | 🐛 26 | 🌐 Rust | 📅 2026-05-19: Recommendations for secure applications development with Rust
   * [PortingCToRust](https://wiki.alopex.li/PortingCToRust)
   * [Easy Postgres extensions in Rust with pg-extend-rs](https://bluejekyll.github.io/blog/rust/2018/12/27/announcing-pg-extend.html)
@@ -475,8 +475,8 @@
 * Swift:
   * [Swift on Raspberry Pi](https://blog.lickability.com/swift-on-raspberry-pi-e44c79fc32f3)
 * V:
-  * [V](https://github.com/vlang-io/V) ⭐ 37,801 | 🐛 108 | 🌐 V | 📅 2026-08-29: Simple, fast, safe, compiled language for creating maintainable software. Supports translation from C/C++.
-  * [vlang](https://github.com/vlang/v) ⭐ 37,801 | 🐛 108 | 🌐 V | 📅 2026-08-29: Simple, fast, safe, compiled language for developing maintainable software. Supports translation from C and (soon) C++. Compiles itself in <1s.
+  * [V](https://github.com/vlang-io/V) ⭐ 37,804 | 🐛 113 | 🌐 V | 📅 2026-08-30: Simple, fast, safe, compiled language for creating maintainable software. Supports translation from C/C++.
+  * [vlang](https://github.com/vlang/v) ⭐ 37,804 | 🐛 113 | 🌐 V | 📅 2026-08-30: Simple, fast, safe, compiled language for developing maintainable software. Supports translation from C and (soon) C++. Compiles itself in <1s.
 * Verilog:
   * [Designing Hardware with Verilog](http://8bitworkshop.com/blog/release/2018/12/15/verilog-programming.html)
 * Yorlang:
@@ -494,7 +494,7 @@
   * [Monoke](https://github.com/facebookexperimental/mononoke) ⚠️ Archived: A Mercurial source control server, specifically designed to support large monorepos.
 * [Welcome to Pull Request Roulette](http://www.pullrequestroulette.com/).
 * Starting Pull Requests:
-  * [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) ⭐ 88,809 | 🐛 148 | 📅 2026-07-25
+  * [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) ⭐ 88,833 | 🐛 149 | 📅 2026-07-25
   * [Algorithmic-Pseudocode](https://github.com/Just-A-Visitor/Algorithmic-Pseudocode/issues) ⭐ 783 | 🐛 16 | 🌐 TeX | 📅 2024-04-21
   * [awesome-social-projects](https://github.com/Jciel/awesome-social-projects) ⭐ 26 | 🐛 0 | 📅 2019-10-21
   * [The Minimum Viable Pull-request](https://dev.to/jmfayard/the-minimum-viable-pull-request-5e7p)
@@ -502,26 +502,26 @@
 
 ##### git
 
-* [.gitignore](https://github.com/github/gitignore) ⭐ 175,490 | 🐛 83 | 📅 2026-08-28: A collection of useful .gitignore templates
-* [lazygit](https://github.com/jesseduffield/lazygit) ⭐ 81,741 | 🐛 1,024 | 🌐 Go | 📅 2026-08-27: simple terminal UI for git commands
-* [gitea](https://github.com/go-gitea/gitea) ⭐ 57,667 | 🐛 2,523 | 🌐 Go | 📅 2026-08-29: Git with a cup of tea, painless self-hosted git service
-* [gogs](https://github.com/gogs/gogs) ⭐ 47,783 | 🐛 1,007 | 🌐 Go | 📅 2026-08-26: Gogs is a painless self-hosted Git service.
-* [github-cli](https://github.com/cli/cli) ⭐ 46,057 | 🐛 1,063 | 🌐 Go | 📅 2026-08-28:  GitHub’s official command line tool
-* [husky](https://github.com/typicode/husky) ⭐ 35,292 | 🐛 108 | 🌐 JavaScript | 📅 2026-03-19: Git hooks made easy
-* [Learn git branching](https://learngitbranching.js.org/): An interactive git visualization to challenge and educate! [github](https://github.com/pcottle/learnGitBranching) ⭐ 33,964 | 🐛 62 | 🌐 JavaScript | 📅 2026-08-25.
+* [.gitignore](https://github.com/github/gitignore) ⭐ 175,506 | 🐛 84 | 📅 2026-08-28: A collection of useful .gitignore templates
+* [lazygit](https://github.com/jesseduffield/lazygit) ⭐ 81,767 | 🐛 1,025 | 🌐 Go | 📅 2026-08-29: simple terminal UI for git commands
+* [gitea](https://github.com/go-gitea/gitea) ⭐ 57,677 | 🐛 2,515 | 🌐 Go | 📅 2026-08-30: Git with a cup of tea, painless self-hosted git service
+* [gogs](https://github.com/gogs/gogs) ⭐ 47,782 | 🐛 1,007 | 🌐 Go | 📅 2026-08-26: Gogs is a painless self-hosted Git service.
+* [github-cli](https://github.com/cli/cli) ⭐ 46,069 | 🐛 1,066 | 🌐 Go | 📅 2026-08-28:  GitHub’s official command line tool
+* [husky](https://github.com/typicode/husky) ⭐ 35,294 | 🐛 108 | 🌐 JavaScript | 📅 2026-03-19: Git hooks made easy
+* [Learn git branching](https://learngitbranching.js.org/): An interactive git visualization to challenge and educate! [github](https://github.com/pcottle/learnGitBranching) ⭐ 33,968 | 🐛 62 | 🌐 JavaScript | 📅 2026-08-25.
 * [cz-cli](https://github.com/commitizen/cz-cli) ⭐ 17,499 | 🐛 193 | 🌐 JavaScript | 📅 2026-08-11: The commitizen command line utility.
-* [lint-staged](https://github.com/okonet/lint-staged) ⭐ 14,720 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-27: Run linters on git staged files
+* [lint-staged](https://github.com/okonet/lint-staged) ⭐ 14,721 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-27: Run linters on git staged files
 * [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) ⭐ 11,703 | 🐛 21 | 🌐 Shell | 📅 2023-12-04: Blame someone else for your bad code.
-* [devhub](https://github.com/devhubapp/devhub) ⭐ 10,119 | 🐛 102 | 🌐 TypeScript | 📅 2024-09-07: DevHub: TweetDeck for GitHub - Android, iOS and Web 👉
-* [Pro Git book](https://git-scm.com/book/en/v2), written by Scott Chacon and Ben Straub ([github](https://github.com/progit/progit2) ⭐ 6,570 | 🐛 218 | 🌐 CSS | 📅 2026-05-25 repo)
-* [forgit](https://github.com/wfxr/forgit) ⭐ 5,071 | 🐛 12 | 🌐 Shell | 📅 2026-08-25 is a utility tool for git taking advantage of fuzzy finder fzf. [Interactive Git Commands With Previews Powered By fzf Fuzzy Finder](https://www.linuxuprising.com/2019/11/forgit-interactive-git-commands-with.html)
-* [git-sizer](https://github.com/github/git-sizer/) ⭐ 4,071 | 🐛 18 | 🌐 Go | 📅 2026-01-16: Compute various size metrics for a Git repository, flagging those that might cause problems ( [article](https://blog.github.com/2018-03-05-measuring-the-many-sizes-of-a-git-repository/))
+* [devhub](https://github.com/devhubapp/devhub) ⭐ 10,121 | 🐛 102 | 🌐 TypeScript | 📅 2024-09-07: DevHub: TweetDeck for GitHub - Android, iOS and Web 👉
+* [Pro Git book](https://git-scm.com/book/en/v2), written by Scott Chacon and Ben Straub ([github](https://github.com/progit/progit2) ⭐ 6,571 | 🐛 218 | 🌐 CSS | 📅 2026-05-25 repo)
+* [forgit](https://github.com/wfxr/forgit) ⭐ 5,072 | 🐛 12 | 🌐 Shell | 📅 2026-08-29 is a utility tool for git taking advantage of fuzzy finder fzf. [Interactive Git Commands With Previews Powered By fzf Fuzzy Finder](https://www.linuxuprising.com/2019/11/forgit-interactive-git-commands-with.html)
+* [git-sizer](https://github.com/github/git-sizer/) ⭐ 4,072 | 🐛 18 | 🌐 Go | 📅 2026-01-16: Compute various size metrics for a Git repository, flagging those that might cause problems ( [article](https://blog.github.com/2018-03-05-measuring-the-many-sizes-of-a-git-repository/))
 * [cheatsheet do git-flow](https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html) [github repo](https://github.com/danielkummer/git-flow-cheatsheet) ⭐ 2,513 | 🐛 22 | 🌐 HTML | 📅 2024-12-18
-* [GitGuardian Documentation and Resources](https://github.com/GitGuardian/APISecurityBestPractices) ⭐ 1,980 | 🐛 11 | 📅 2019-07-08
+* [GitGuardian Documentation and Resources](https://github.com/GitGuardian/APISecurityBestPractices) ⭐ 1,981 | 🐛 11 | 📅 2019-07-08
 * [gitless](https://gitless.com): A version control system built on top of Git [github](https://github.com/sdg-mit/gitless) ⭐ 1,947 | 🐛 91 | 🌐 Python | 📅 2023-10-01.
 * [gita](https://github.com/nosarthur/gita) ⭐ 1,932 | 🐛 36 | 🌐 Python | 📅 2026-07-06: Manage multiple git repos side by side for sanity
 * [Git4Noobs](https://github.com/DanielHe4rt/git4noobs) ⭐ 1,613 | 🐛 3 | 📅 2024-09-28
-* [Forge](https://github.com/magit/forge/) ⭐ 1,572 | 🐛 9 | 🌐 Emacs Lisp | 📅 2026-08-21: Work with Git forges from the comfort of Magit
+* [Forge](https://github.com/magit/forge/) ⭐ 1,572 | 🐛 9 | 🌐 Emacs Lisp | 📅 2026-08-29: Work with Git forges from the comfort of Magit
 * [gitx](https://github.com/codebasesaga/GitX) ⭐ 108 | 🐛 2 | 🌐 Objective-C | 📅 2019-02-11: GitX‐modded
 * [git-semantics](https://github.com/kewitz/git-semantics) ⭐ 43 | 🐛 0 | 🌐 Shell | 📅 2019-06-25: Git hook to ensure semantic commit messages.
 * [10 Common Git Problems and How to Fix Them](https://citizen428.net/10-common-git-problems-and-how-to-fix-them-e8d809299f08)
@@ -588,14 +588,14 @@
 
 ### Hardware
 
-* [SkyWater Open Source PDK](https://github.com/google/skywater-pdk) ⭐ 3,677 | 🐛 199 | 🌐 Python | 📅 2026-07-21: Open source process design kit for usage with SkyWater Technology Foundry's 130nm node.
-* [Ariane is a 6-stage RISC-V CPU](https://github.com/pulp-platform/ariane) ⭐ 3,086 | 🐛 286 | 🌐 Assembly | 📅 2026-08-28
-* [cva6](https://github.com/openhwgroup/cva6) ⭐ 3,086 | 🐛 286 | 🌐 Assembly | 📅 2026-08-28: The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux.
+* [SkyWater Open Source PDK](https://github.com/google/skywater-pdk) ⭐ 3,678 | 🐛 200 | 🌐 Python | 📅 2026-07-21: Open source process design kit for usage with SkyWater Technology Foundry's 130nm node.
+* [Ariane is a 6-stage RISC-V CPU](https://github.com/pulp-platform/ariane) ⭐ 3,087 | 🐛 286 | 🌐 Assembly | 📅 2026-08-29
+* [cva6](https://github.com/openhwgroup/cva6) ⭐ 3,087 | 🐛 286 | 🌐 Assembly | 📅 2026-08-29: The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux.
 * [hardware-effects](https://github.com/Kobzol/hardware-effects) ⭐ 2,999 | 🐛 11 | 🌐 C++ | 📅 2024-02-29: Demonstration of various hardware effects.
-* [darkriscv](https://github.com/darklife/darkriscv) ⭐ 2,601 | 🐛 5 | 🌐 Verilog | 📅 2026-05-12: opensouce RISC-V implemented from scratch in one night!
+* [darkriscv](https://github.com/darklife/darkriscv) ⭐ 2,601 | 🐛 5 | 🌐 Verilog | 📅 2026-08-30: opensouce RISC-V implemented from scratch in one night!
 * [NyuziProcessor](https://github.com/jbush001/NyuziProcessor/) ⭐ 2,219 | 🐛 91 | 🌐 C | 📅 2024-11-08: GPGPU microprocessor architecture
 * [RARS](https://github.com/TheThirdOne/rars) ⭐ 1,619 | 🐛 76 | 🌐 Java | 📅 2024-07-19: RISC-V Assembler and Runtime Simulator.
-* [The Zip CPU](https://github.com/ZipCPU/zipcpu) ⭐ 1,577 | 🐛 3 | 🌐 Verilog | 📅 2026-08-19: A small, light weight, RISC CPU soft core
+* [The Zip CPU](https://github.com/ZipCPU/zipcpu) ⭐ 1,578 | 🐛 3 | 🌐 Verilog | 📅 2026-08-19: A small, light weight, RISC CPU soft core
 * [swerv\_eh1](https://github.com/westerndigitalcorporation/swerv_eh1) ⚠️ Archived: A directory of Western Digital’s RISC-V SweRV Cores
 * [x86-manpages](https://github.com/ttmo-O/x86-manpages) ⭐ 267 | 🐛 0 | 🌐 Roff | 📅 2020-03-10: x86 and amd64 instruction reference manual pages.
 * [VGChips](https://github.com/furrtek/VGChips) ⭐ 229 | 🐛 23 | 🌐 Verilog | 📅 2026-08-22: Video Game custom chips reverse-engineered from silicon.
@@ -638,7 +638,7 @@
 ## Operating Systems
 
 * [MS-DOS](https://github.com/Microsoft/MS-DOS) ⚠️ Archived: The original sources of MS-DOS 1.25 and 2.0, for reference purposes
-* [How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial) ⭐ 30,677 | 🐛 130 | 🌐 C | 📅 2026-02-04
+* [How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial) ⭐ 30,678 | 🐛 130 | 🌐 C | 📅 2026-02-04
 * [Mezzano](https://github.com/froggey/Mezzano/) ⭐ 3,887 | 🐛 14 | 🌐 Common Lisp | 📅 2026-08-16: An operating system written in Common Lisp.
 * [bootOS](https://github.com/nanochess/bootOS) ⭐ 2,136 | 🐛 0 | 🌐 Assembly | 📅 2026-08-01 is a monolithic operating system in 512 bytes of x86 machine code.
 * [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/) with code repo: [lc3-vm](https://github.com/justinmeiners/lc3-vm) ⭐ 2,088 | 🐛 3 | 🌐 Makefile | 📅 2026-04-02
@@ -679,8 +679,8 @@
 
 ## Compilers
 
-* [GraalVM](https://github.com/oracle/graal) ⭐ 21,679 | 🐛 855 | 🌐 Java | 📅 2026-08-28: GraalVM is a universal virtual machine for running applications written in JavaScript, Python, Ruby, R, JVM-based languages like Java, Scala, Clojure, Kotlin, and LLVM-based languages such as C and C++. [GraalVM Implementation of Python](https://github.com/graalvm/graalpython) ⭐ 1,636 | 🐛 73 | 🌐 Python | 📅 2026-08-26
-* [Compiler Explorer](https://godbolt.org/): Run compilers interactively from your web browser and interact with the assembly. [github](https://github.com/mattgodbolt/compiler-explorer) ⭐ 19,010 | 🐛 837 | 🌐 TypeScript | 📅 2026-08-27, [how it works](https://xania.org/201609/how-compiler-explorer-runs-on-amazon).
+* [GraalVM](https://github.com/oracle/graal) ⭐ 21,679 | 🐛 854 | 🌐 Java | 📅 2026-08-29: GraalVM is a universal virtual machine for running applications written in JavaScript, Python, Ruby, R, JVM-based languages like Java, Scala, Clojure, Kotlin, and LLVM-based languages such as C and C++. [GraalVM Implementation of Python](https://github.com/graalvm/graalpython) ⭐ 1,637 | 🐛 73 | 🌐 Python | 📅 2026-08-26
+* [Compiler Explorer](https://godbolt.org/): Run compilers interactively from your web browser and interact with the assembly. [github](https://github.com/mattgodbolt/compiler-explorer) ⭐ 19,016 | 🐛 836 | 🌐 TypeScript | 📅 2026-08-29, [how it works](https://xania.org/201609/how-compiler-explorer-runs-on-amazon).
 * [moustique](https://github.com/matt-42/moustique) ⭐ 135 | 🐛 1 | 🌐 C++ | 📅 2018-07-24: C++14 high performance non-blocking network IO (based on epoll + boost.context)
 * [LLVM for Grad Students](http://www.cs.cornell.edu/~asampson/blog/llvm.html)
 * A text file that is also a [executable](http://www.cs.cmu.edu/~tom7/abc/paper.txt) (both are a paper, actually)
@@ -697,28 +697,28 @@
 
 ## Distributed Systems
 
-* [FASTER](https://github.com/Microsoft/FASTER) ⭐ 6,639 | 🐛 36 | 🌐 C# | 📅 2026-08-19: Fast key-value store from Microsoft Research
-* [porcupine](https://github.com/anishathalye/porcupine/) ⭐ 1,241 | 🐛 4 | 🌐 Go | 📅 2026-08-06: A fast linearizability checker written in Go
+* [FASTER](https://github.com/Microsoft/FASTER) ⭐ 6,638 | 🐛 36 | 🌐 C# | 📅 2026-08-19: Fast key-value store from Microsoft Research
+* [porcupine](https://github.com/anishathalye/porcupine/) ⭐ 1,242 | 🐛 4 | 🌐 Go | 📅 2026-08-06: A fast linearizability checker written in Go
 * [DrTLAPlus](https://github.com/tlaplus/DrTLAPlus/) ⭐ 861 | 🐛 0 | 🌐 TLA | 📅 2022-04-18:  learn an algorithm and protocol, study a specification
 * [CharmPy](https://charmpy.readthedocs.io/en/latest/) is a high-level parallel and distributed programming framework with a simple and powerful API, based on migratable Python objects and remote method invocation; built on top of an adaptive C/C++ runtime system providing speed, scalability and dynamic load balancing.
 * [White Rabbit](https://ohwr.org/project/white-rabbit/wikis/home): White Rabbit provides sub-nanosecond accuracy and picoseconds precision of synchronization for large distributed systems.
 
 ## Pattern Recognition
 
-* [tesseract](https://github.com/tesseract-ocr/tesseract) ⭐ 76,241 | 🐛 491 | 🌐 C++ | 📅 2026-08-25: Tesseract Open Source OCR Engine (main repository)
-* [EasyOCR](https://github.com/JaidedAI/EasyOCR) ⭐ 29,948 | 🐛 530 | 🌐 Python | 📅 2025-12-05: Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai.
+* [tesseract](https://github.com/tesseract-ocr/tesseract) ⭐ 76,249 | 🐛 489 | 🌐 C++ | 📅 2026-08-25: Tesseract Open Source OCR Engine (main repository)
+* [EasyOCR](https://github.com/JaidedAI/EasyOCR) ⭐ 29,951 | 🐛 530 | 🌐 Python | 📅 2025-12-05: Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai.
 * [annoy](https://github.com/spotify/annoy) ⭐ 14,292 | 🐛 86 | 🌐 C++ | 📅 2025-10-29: Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
-* [pampy](https://github.com/santinic/pampy) ⭐ 3,523 | 🐛 23 | 🌐 Python | 📅 2025-01-16: The Pattern Matching for Python you always dreamed of.
+* [pampy](https://github.com/santinic/pampy) ⭐ 3,522 | 🐛 23 | 🌐 Python | 📅 2025-01-16: The Pattern Matching for Python you always dreamed of.
 
 ## Artificial Intelligence
 
-* [faceswap](https://github.com/deepfakes/faceswap) ⭐ 57,510 | 🐛 14 | 🌐 Python | 📅 2026-08-05: Non official project based on original /r/Deepfakes thread. Many thanks to him!
-* [Jina](https://github.com/jina-ai/jina) ⭐ 21,860 | 🐛 26 | 🌐 Python | 📅 2025-03-24: Cloud-native neural search framework for any kind of data.
+* [faceswap](https://github.com/deepfakes/faceswap) ⭐ 57,517 | 🐛 14 | 🌐 Python | 📅 2026-08-05: Non official project based on original /r/Deepfakes thread. Many thanks to him!
+* [Jina](https://github.com/jina-ai/jina) ⭐ 21,861 | 🐛 26 | 🌐 Python | 📅 2025-03-24: Cloud-native neural search framework for any kind of data.
 * [DeepFaceLab](https://github.com/iperov/DeepFaceLab) ⚠️ Archived: is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md).
-* [libfacedetection](https://github.com/ShiqiYu/libfacedetection) ⭐ 12,784 | 🐛 56 | 🌐 C++ | 📅 2026-06-28: An open source library for face detection in images. The face detection speed can reach 1500FPS.
+* [libfacedetection](https://github.com/ShiqiYu/libfacedetection) ⭐ 12,786 | 🐛 56 | 🌐 C++ | 📅 2026-06-28: An open source library for face detection in images. The face detection speed can reach 1500FPS.
 * [SPADE](https://github.com/NVlabs/SPADE) ⭐ 7,717 | 🐛 100 | 🌐 Python | 📅 2023-08-07: Semantic Image Synthesis with Spatially-Adaptive Normalization - [paper](https://nvlabs.github.io/SPADE/)
 * [Lisp code](https://github.com/norvig/paip-lisp) ⭐ 7,503 | 🐛 35 | 🌐 Common Lisp | 📅 2024-10-15 for the textbook "Paradigms of Artificial Intelligence Programming"
-* [donkeycar](https://github.com/autorope/donkeycar) ⭐ 3,495 | 🐛 134 | 🌐 Python | 📅 2026-08-28: Open source hardware and software platform to build a small scale self driving car.
+* [donkeycar](https://github.com/autorope/donkeycar) ⭐ 3,496 | 🐛 135 | 🌐 Python | 📅 2026-08-30: Open source hardware and software platform to build a small scale self driving car.
 * [Exploring how different framings of the same supervised learning task affect model performance](https://andersource.dev/2020/07/12/supervised-task-framing.html): [face-classification-problem-framing](https://github.com/andersource/face-classification-problem-framing) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2020-07-19
 * [OpenAI](https://thegradient.pub/openai-please-open-source-your-language-model/): Please Open Source Your Language Model
 * [Which Face Is Real?](http://www.whichfaceisreal.com): Our aim is to make you aware of the ease with which digital identities can be faked, and to help you spot these fakes at a single glance.
@@ -741,13 +741,13 @@
 
 ### Natural Language Processing
 
-* [Transformers](https://github.com/huggingface/transformers) ⭐ 164,590 | 🐛 2,395 | 🌐 Python | 📅 2026-08-29: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
-* [nanoGPT](https://github.com/karpathy/nanoGPT) ⭐ 62,564 | 🐛 351 | 🌐 Python | 📅 2025-11-12: The simplest, fastest repository for training/finetuning medium-sized GPTs.
-* [Industrial-strength Natural Language Processing (NLP) with Python and Cython](https://github.com/explosion/spaCy/) ⭐ 33,860 | 🐛 236 | 🌐 Python | 📅 2026-08-24
+* [Transformers](https://github.com/huggingface/transformers) ⭐ 164,620 | 🐛 2,404 | 🌐 Python | 📅 2026-08-30: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
+* [nanoGPT](https://github.com/karpathy/nanoGPT) ⭐ 62,637 | 🐛 351 | 🌐 Python | 📅 2025-11-12: The simplest, fastest repository for training/finetuning medium-sized GPTs.
+* [Industrial-strength Natural Language Processing (NLP) with Python and Cython](https://github.com/explosion/spaCy/) ⭐ 33,865 | 🐛 236 | 🌐 Python | 📅 2026-08-24
 * [flair](https://github.com/zalandoresearch/flair) ⭐ 14,384 | 🐛 31 | 🌐 Python | 📅 2025-10-27: A very simple framework for state-of-the-art Natural Language Processing (NLP)
 * [allennlp](https://github.com/allenai/allennlp) ⚠️ Archived: An open-source NLP research library, built on PyTorch.
 * [pytext](https://github.com/facebookresearch/PyText) ⚠️ Archived: A natural language modeling framework based on PyTorch
-* [Language Interpretability Tool (LIT)](https://github.com/pair-code/lit/) ⭐ 3,661 | 🐛 138 | 🌐 TypeScript | 📅 2026-07-29: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
+* [Language Interpretability Tool (LIT)](https://github.com/pair-code/lit/) ⭐ 3,662 | 🐛 138 | 🌐 TypeScript | 📅 2026-07-29: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
 * [PromptSource](https://github.com/bigscience-workshop/promptsource) ⭐ 3,031 | 🐛 44 | 🌐 Python | 📅 2023-10-23
 * [Argdown](https://argdown.org/): A simple syntax for complex argumentation. [argdown repo](https://github.com/christianvoigt/argdown) ⭐ 1,033 | 🐛 96 | 🌐 TypeScript | 📅 2026-08-11
 * [PatrickStar](https://github.com/Tencent/PatrickStar) ⭐ 772 | 🐛 8 | 🌐 Python | 📅 2025-11-18: enables Larger, Faster, Greener Pretrained Models for NLP and democratizes AI for everyone.
@@ -784,7 +784,7 @@
 
 #### Dictionaries
 
-* [google-10000-english](https://github.com/first20hours/google-10000-english) ⭐ 4,465 | 🐛 28 | 📅 2023-05-17: This repo contains a list of the 10,000 most common English words in order of frequency, as determined by n-gram frequency analysis of the Google's Trillion Word Corpus.
+* [google-10000-english](https://github.com/first20hours/google-10000-english) ⭐ 4,466 | 🐛 28 | 📅 2023-05-17: This repo contains a list of the 10,000 most common English words in order of frequency, as determined by n-gram frequency analysis of the Google's Trillion Word Corpus.
 * [The DICT](http://www.dict.org/bin/Dict): a lot of dictionaries.
 * [Wordlist em Português](https://localdomain.wordpress.com/2007/05/18/wordlist-em-portugues/)
 * [Dictionaries for International Ispell](https://www.cs.hmc.edu/~geoff/ispell-dictionaries.html)
@@ -795,16 +795,16 @@
 
 ### Machine Learning
 
-* [Real-Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) ⭐ 60,118 | 🐛 177 | 🌐 Python | 📅 2026-03-09: Clone a voice in 5 seconds to generate arbitrary speech in real-time
+* [Real-Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) ⭐ 60,121 | 🐛 177 | 🌐 Python | 📅 2026-03-09: Clone a voice in 5 seconds to generate arbitrary speech in real-time
 * [DeepSpeech](https://github.com/mozilla/DeepSpeech) ⚠️ Archived: is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
-* [Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning) ⭐ 24,785 | 🐛 30 | 🌐 Jupyter Notebook | 📅 2025-11-23: 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
+* [Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning) ⭐ 24,787 | 🐛 30 | 🌐 Jupyter Notebook | 📅 2025-11-23: 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 * [DeOldify](https://github.com/jantic/DeOldify) ⚠️ Archived: A Deep Learning based project for colorizing and restoring old images
-* [DeepMind Research](https://github.com/deepmind/deepmind-research) ⭐ 15,173 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17: This repository contains implementations and illustrative code to accompany DeepMind publications.
-* [vosk-api](https://github.com/alphacep/vosk-api) ⭐ 15,083 | 🐛 602 | 🌐 Jupyter Notebook | 📅 2026-08-09: Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node.
+* [DeepMind Research](https://github.com/deepmind/deepmind-research) ⭐ 15,174 | 🐛 357 | 🌐 Jupyter Notebook | 📅 2026-06-17: This repository contains implementations and illustrative code to accompany DeepMind publications.
+* [vosk-api](https://github.com/alphacep/vosk-api) ⭐ 15,085 | 🐛 602 | 🌐 Jupyter Notebook | 📅 2026-08-09: Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node.
 * [Transfer Learning](https://github.com/jindongwang/transferlearning) ⭐ 14,347 | 🐛 24 | 🌐 Python | 📅 2025-02-18: Everything about Transfer Learning and Domain Adaptation--迁移学习
-* [CARLA](https://carla.org): Open-source simulator for [autonomous driving research](https://github.com/carla-simulator/carla) ⭐ 14,336 | 🐛 1,195 | 🌐 C++ | 📅 2026-08-28.
-* [Python Machine Learning (2nd Ed.) Code Repository](https://github.com/rasbt/python-machine-learning-book-2nd-edition) ⭐ 7,201 | 🐛 32 | 🌐 Jupyter Notebook | 📅 2020-10-01: The "Python Machine Learning (2nd edition)" book code repository and info resource
-* [60\_Days\_RL\_Challenge](https://github.com/andri27-ts/60_Days_RL_Challenge) ⭐ 4,736 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2020-06-30: Learn Deep Reinforcement Learning in depth in 60 days
+* [CARLA](https://carla.org): Open-source simulator for [autonomous driving research](https://github.com/carla-simulator/carla) ⭐ 14,337 | 🐛 1,195 | 🌐 C++ | 📅 2026-08-29.
+* [Python Machine Learning (2nd Ed.) Code Repository](https://github.com/rasbt/python-machine-learning-book-2nd-edition) ⭐ 7,200 | 🐛 32 | 🌐 Jupyter Notebook | 📅 2020-10-01: The "Python Machine Learning (2nd edition)" book code repository and info resource
+* [60\_Days\_RL\_Challenge](https://github.com/andri27-ts/60_Days_RL_Challenge) ⭐ 4,735 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2020-06-30: Learn Deep Reinforcement Learning in depth in 60 days
 * [make-sense](https://github.com/SkalskiP/make-sense) ⭐ 3,562 | 🐛 132 | 🌐 TypeScript | 📅 2024-08-15: [Free to use online tool for labelling photos](https://makesense.ai).
 * [InvoiceNet](https://github.com/naiveHobo/InvoiceNet) ⭐ 2,695 | 🐛 72 | 🌐 Python | 📅 2024-05-03: Deep neural network to extract intelligent information from invoice documents.
 * [lip reading](https://github.com/astorfi/lip-reading-deeplearning) ⭐ 1,905 | 🐛 7 | 🌐 Python | 📅 2022-11-07: Cross Audio-Visual Recognition using 3D Architectures
@@ -851,7 +851,7 @@
 * [Autocompletion with deep learning](https://tabnine.com/blog/deep): TL;DR: TabNine is an autocompleter that helps you write code faster. We’re adding a deep learning model which significantly improves suggestion quality.
 * [Run tracking liberates ML teams.](https://dotscience.com/blog/run-tracking/)
 * Autonomous Vehicles:
-  * [AirSim](https://github.com/microsoft/AirSim) ⭐ 18,427 | 🐛 780 | 🌐 C++ | 📅 2026-06-30: Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research.
+  * [AirSim](https://github.com/microsoft/AirSim) ⭐ 18,426 | 🐛 780 | 🌐 C++ | 📅 2026-06-30: Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research.
   * [autodrome](https://github.com/vojtamolda/autodrome/) ⭐ 225 | 🐛 2 | 🌐 Python | 📅 2018-12-21: Framework and OpenAI Gym Environment for Autonomous Vehicle Development.
 * [150 successful machine learning models](https://blog.acolyer.org/2019/10/07/150-successful-machine-learning-models/): 6 lessons learned at Booking.com
 * [Machine Learning on Encrypted Data Without Decrypting It](https://juliacomputing.com/blog/2019/11/22/encrypted-machine-learning.html)
@@ -902,18 +902,18 @@
 
 ### Neural Networks
 
-* [Stable Diffusion](https://github.com/CompVis/stable-diffusion) ⭐ 73,355 | 🐛 618 | 🌐 Jupyter Notebook | 📅 2024-06-18: is a latent text-to-image diffusion model. Thanks to a generous compute donation from Stability AI and support from LAION, we were able to train a Latent Diffusion Model on 512x512 images from a subset of the LAION-5B database.
-* [Wan](https://github.com/Wan-Video/Wan2.2) ⭐ 17,321 | 🐛 294 | 🌐 Python | 📅 2026-03-17: Open and Advanced Large-Scale Video Generative Models
+* [Stable Diffusion](https://github.com/CompVis/stable-diffusion) ⭐ 73,358 | 🐛 618 | 🌐 Jupyter Notebook | 📅 2024-06-18: is a latent text-to-image diffusion model. Thanks to a generous compute donation from Stability AI and support from LAION, we were able to train a Latent Diffusion Model on 512x512 images from a subset of the LAION-5B database.
+* [Wan](https://github.com/Wan-Video/Wan2.2) ⭐ 17,324 | 🐛 294 | 🌐 Python | 📅 2026-03-17: Open and Advanced Large-Scale Video Generative Models
 * [Bbrain.js](https://github.com/BrainJS/brain.js) ⭐ 14,862 | 🐛 90 | 🌐 TypeScript | 📅 2024-09-26: 🤖 Neural networks in JavaScript
 * [Paddle Fluid](https://www.paddlepaddle.org.cn/) with [Pre-trained and Reproduced Deep Learning Models](https://github.com/PaddlePaddle/models) ⭐ 6,932 | 🐛 870 | 🌐 Python | 📅 2025-01-15, [ERNIE](https://github.com/PaddlePaddle/ERNIE) ⭐ 7,737 | 🐛 82 | 🌐 Python | 📅 2026-07-24:  An Implementation of ERNIE For Language Understanding (including Pre-training models and Fine-tuning tools).
-* [Deep Convolutional Generative Adversarial Network](https://www.tensorflow.org/tutorials/generative/dcgan) [jupyter notebook](https://github.com/tensorflow/docs/blob/master/site/en/tutorials/generative/dcgan.ipynb) ⭐ 6,329 | 🐛 67 | 🌐 Jupyter Notebook | 📅 2026-07-09
-* [Image Deduplicator](https://idealo.github.io/imagededup/): [imagededup](https://github.com/idealo/imagededup) ⭐ 5,667 | 🐛 38 | 🌐 Python | 📅 2025-08-15 is a python package that simplifies the task of finding exact and near duplicates in an image collection.
+* [Deep Convolutional Generative Adversarial Network](https://www.tensorflow.org/tutorials/generative/dcgan) [jupyter notebook](https://github.com/tensorflow/docs/blob/master/site/en/tutorials/generative/dcgan.ipynb) ⭐ 6,330 | 🐛 67 | 🌐 Jupyter Notebook | 📅 2026-07-09
+* [Image Deduplicator](https://idealo.github.io/imagededup/): [imagededup](https://github.com/idealo/imagededup) ⭐ 5,666 | 🐛 38 | 🌐 Python | 📅 2025-08-15 is a python package that simplifies the task of finding exact and near duplicates in an image collection.
 * [tensorspace](https://github.com/tensorspace-team/tensorspace) ⭐ 5,191 | 🐛 28 | 🌐 JavaScript | 📅 2022-12-05: Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow\.js
-* [Handwriting Synthesis](https://github.com/sjvasquez/handwriting-synthesis) ⭐ 4,803 | 🐛 63 | 🌐 Python | 📅 2024-01-11
-* [Random Forest vs Neural Network](https://mljar.com/blog/random-forest-vs-neural-network-classification/)(classification, tabular data) - [github](https://github.com/mljar/mljar-supervised) ⭐ 3,287 | 🐛 129 | 🌐 Python | 📅 2026-07-27
+* [Handwriting Synthesis](https://github.com/sjvasquez/handwriting-synthesis) ⭐ 4,804 | 🐛 63 | 🌐 Python | 📅 2024-01-11
+* [Random Forest vs Neural Network](https://mljar.com/blog/random-forest-vs-neural-network-classification/)(classification, tabular data) - [github](https://github.com/mljar/mljar-supervised) ⭐ 3,288 | 🐛 129 | 🌐 Python | 📅 2026-07-27
 * [OpenNMT](https://github.com/opennmt/opennmt) ⚠️ Archived: Open-Source Neural Machine Translation
 * [GANformer](https://github.com/dorarad/gansformer) ⭐ 1,344 | 🐛 15 | 🌐 Python | 📅 2022-06-14: Generative Adversarial Transformers.
-* [NEST](https://github.com/nest/nest-simulator) ⭐ 660 | 🐛 228 | 🌐 C++ | 📅 2026-08-26: NEST is a simulator for spiking neural network models that focuses on the dynamics, size and structure of neural systems rather than on the exact morphology of individual neurons.
+* [NEST](https://github.com/nest/nest-simulator) ⭐ 661 | 🐛 228 | 🌐 C++ | 📅 2026-08-26: NEST is a simulator for spiking neural network models that focuses on the dynamics, size and structure of neural systems rather than on the exact morphology of individual neurons.
 * [GRaNDPapA](https://github.com/joaoperfig/GRaNDPapA) ⭐ 285 | 🐛 1 | 🌐 Python | 📅 2022-02-06: Generator of Rad Names from Decent Paper Acronyms
 * [Pupyl](https://github.com/policratus/pupyl) ⭐ 115 | 🐛 7 | 🌐 Python | 📅 2024-12-24 is a really fast image search library which you can index your own (millions of) images and find similar images in milliseconds.
 * [NALU](https://github.com/Nilabhra/NALU) ⭐ 21 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2018-09-08: Neural Arithmetic Logic Units
@@ -946,8 +946,8 @@
 
 ### Computer Vision
 
-* [fiftyone](https://github.com/voxel51/fiftyone) ⭐ 11,048 | 🐛 677 | 🌐 TypeScript | 📅 2026-08-29: The open-source tool for building high-quality datasets and computer vision models
-* [Pythia](https://github.com/facebookresearch/pythia) ⭐ 5,633 | 🐛 150 | 🌐 Python | 📅 2026-07-07: A software suite for Visual Question Answering.
+* [fiftyone](https://github.com/voxel51/fiftyone) ⭐ 11,047 | 🐛 676 | 🌐 TypeScript | 📅 2026-08-30: The open-source tool for building high-quality datasets and computer vision models
+* [Pythia](https://github.com/facebookresearch/pythia) ⭐ 5,634 | 🐛 150 | 🌐 Python | 📅 2026-07-07: A software suite for Visual Question Answering.
 * [VideoPose3D](https://github.com/facebookresearch/VideoPose3D) ⚠️ Archived: Efficient 3D human pose estimation in video using 2D keypoint trajectories
 * [soccer\_realtime.ipynb](https://github.com/priya-dwivedi/Deep-Learning/blob/master/soccer_team_prediction/soccer_realtime.ipynb) ⭐ 3,355 | 🐛 101 | 🌐 Jupyter Notebook | 📅 2023-03-24 · priya-dwivedi/Deep-Learning
 * [YOLOv7](https://github.com/jinfagang/yolov7) ⭐ 3,109 | 🐛 69 | 🌐 Python | 📅 2023-11-18: YOLO with Transformers and Instance Segmentation, with TensorRT acceleration!
@@ -955,7 +955,7 @@
 * [OpenSimpleLidar](https://github.com/iliasam/OpenSimpleLidar) ⭐ 2,554 | 🐛 1 | 🌐 C | 📅 2025-07-22: Open Hardware scanning laser rangefinder ([howto](https://hackaday.io/project/20628-open-simple-lidar))
 * [MobileNetv2-YOLOV3](https://github.com/dog-qiuqiu/MobileNetv2-YOLOV3#500kb%E7%9A%84yolo-face-detection) ⭐ 1,744 | 🐛 25 | 🌐 C | 📅 2021-02-06: MobileNetV2-YoloV3-Nano: 0.5BFlops 3MB HUAWEI P40: 6ms/img, YoloFace-500k:0.1Bflops500KB
 * [gradslam](https://github.com/gradslam/gradslam) ⭐ 1,422 | 🐛 18 | 🌐 Python | 📅 2023-09-02: gradslam is an open source differentiable dense SLAM library for PyTorch
-* [imagenette](https://github.com/fastai/imagenette) ⭐ 1,132 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2022-09-26: A smaller subset of 10 easily classified classes from Imagenet, and a little more French
+* [imagenette](https://github.com/fastai/imagenette) ⭐ 1,133 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2022-09-26: A smaller subset of 10 easily classified classes from Imagenet, and a little more French
 * [sense](https://github.com/TwentyBN/sense) ⚠️ Archived: Enhance your application with the ability to see and interact with humans using any RGB camera.
 * [openpifpaf](https://github.com/vita-epfl/openpifpaf) ⭐ 92 | 🐛 3 | 🌐 Python | 📅 2024-03-14: Implementation of "PifPaf: Composite Fields for Human Pose Estimation" in PyTorch.
 * [Facial Features Recognition](https://github.com/arthurfortes/facial-features-recognition) ⭐ 59 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-10-13: Face Mesh is a face geometry solution that estimates 468 3D face landmarks in real-time even on mobile devices.
@@ -982,27 +982,27 @@
 
 ### Python DL
 
-*Frameworks for Neural Networks and Deep Learning. See: [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,829 | 🐛 84 | 📅 2025-05-26.*
+*Frameworks for Neural Networks and Deep Learning. See: [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,836 | 🐛 84 | 📅 2025-05-26.*
 
-* [Keras](https://github.com/fchollet/keras) ⭐ 64,265 | 🐛 233 | 🌐 Python | 📅 2026-08-28 - A high-level neural networks library and capable of running on top of either TensorFlow or Theano.
-* [Caffe](https://github.com/BVLC/caffe) ⭐ 34,556 | 🐛 1,175 | 🌐 C++ | 📅 2024-07-31 - A fast open framework for deep learning..
+* [Keras](https://github.com/fchollet/keras) ⭐ 64,269 | 🐛 234 | 🌐 Python | 📅 2026-08-29 - A high-level neural networks library and capable of running on top of either TensorFlow or Theano.
+* [Caffe](https://github.com/BVLC/caffe) ⭐ 34,555 | 🐛 1,175 | 🌐 C++ | 📅 2024-07-31 - A fast open framework for deep learning..
 * [MXNet](https://github.com/dmlc/mxnet) ⚠️ Archived - A deep learning framework designed for both efficiency and flexibility.
-* [Theano](https://github.com/Theano/Theano) ⭐ 9,998 | 🐛 699 | 🌐 Python | 📅 2024-01-15 - A library for fast numerical computation.
+* [Theano](https://github.com/Theano/Theano) ⭐ 9,999 | 🐛 699 | 🌐 Python | 📅 2024-01-15 - A library for fast numerical computation.
 * [Serpent.AI](https://github.com/SerpentAI/SerpentAI) ⚠️ Archived - Game agent framework. Use any video game as a deep learning sandbox.
 * [Approximate Models](https://github.com/LaRiffle/approximate-models) ⭐ 12 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2019-11-05: Python Library for Function Approximation in Machine Learning.
 * [Neupy](http://neupy.com/pages/home.html) - Running and testing different Artificial Neural Networks algorithms.
 
 #### PyTorch
 
-* [PyTorch](https://github.com/pytorch/pytorch) ⭐ 102,653 | 🐛 17,417 | 🌐 Python | 📅 2026-08-29: Tensors and Dynamic neural networks in Python with strong GPU acceleration a ([tour](http://blog.christianperone.com/2018/03/pytorch-internal-architecture-tour/)):
-* [tinygrad](https://github.com/geohot/tinygrad) ⭐ 33,522 | 🐛 182 | 🌐 Python | 📅 2026-08-29: You like pytorch? You like [micrograd](https://github.com/karpathy/micrograd) ⭐ 17,305 | 🐛 79 | 🌐 Jupyter Notebook | 📅 2026-08-03? You love tinygrad! ❤️
+* [PyTorch](https://github.com/pytorch/pytorch) ⭐ 102,662 | 🐛 17,440 | 🌐 Python | 📅 2026-08-30: Tensors and Dynamic neural networks in Python with strong GPU acceleration a ([tour](http://blog.christianperone.com/2018/03/pytorch-internal-architecture-tour/)):
+* [tinygrad](https://github.com/geohot/tinygrad) ⭐ 33,526 | 🐛 185 | 🌐 Python | 📅 2026-08-30: You like pytorch? You like [micrograd](https://github.com/karpathy/micrograd) ⭐ 17,321 | 🐛 79 | 🌐 Jupyter Notebook | 📅 2026-08-03? You love tinygrad! ❤️
 * [vid2vid](https://github.com/NVIDIA/vid2vid) ⭐ 8,693 | 🐛 110 | 🌐 Python | 📅 2022-05-17: Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
 * [Alias-Free Generative Adversarial Networks (StyleGAN3)](https://github.com/NVlabs/stylegan3) ⭐ 6,942 | 🐛 192 | 🌐 Python | 📅 2023-09-12: Official PyTorch implementation of StyleGAN3.
 * [Deep-reinforcement-learning-with-pytorch](https://github.com/sweetice/Deep-reinforcement-learning-with-pytorch) ⭐ 4,650 | 🐛 29 | 🌐 Python | 📅 2023-03-24: PyTorch implementation of DQN, AC, ACER, A2C, A3C, PG, DDPG, TRPO, PPO, SAC, TD3 and ....
 * [pytorch-kaldi](https://github.com/mravanelli/pytorch-kaldi) ⭐ 2,405 | 🐛 26 | 🌐 Python | 📅 2022-03-14 is a project for developing state-of-the-art DNN/RNN hybrid speech recognition systems. The DNN part is managed by pytorch, while feature extraction, label computation, and decoding are performed with the kaldi toolkit.
 * [GANDissect](https://github.com/CSAILVision/GANDissect) ⭐ 1,765 | 🐛 16 | 🌐 Python | 📅 2021-05-23: Pytorch-based tools for visualizing and understanding the neurons of a GAN. [Site](https://gandissect.csail.mit.edu/)
-* [solo-learn](https://github.com/vturrisi/solo-learn) ⭐ 1,573 | 🐛 18 | 🌐 Python | 📅 2026-07-27: a library of self-supervised methods for visual representation learning powered by Pytorch Lightning.
-* [nnAudio](https://github.com/KinWaiCheuk/nnAudio) ⭐ 1,127 | 🐛 21 | 🌐 Python | 📅 2026-05-21: Audio processing by using pytorch 1D convolution network
+* [solo-learn](https://github.com/vturrisi/solo-learn) ⭐ 1,574 | 🐛 18 | 🌐 Python | 📅 2026-07-27: a library of self-supervised methods for visual representation learning powered by Pytorch Lightning.
+* [nnAudio](https://github.com/KinWaiCheuk/nnAudio) ⭐ 1,126 | 🐛 21 | 🌐 Python | 📅 2026-05-21: Audio processing by using pytorch 1D convolution network
 * [colorization-pytorch](https://github.com/richzhang/colorization-pytorch) ⭐ 601 | 🐛 15 | 🌐 Python | 📅 2020-06-04: PyTorch reimplementation of Interactive Deep Colorization
 * [Code snippets created for the PyTorch discussion board](https://github.com/ptrblck/pytorch_misc) ⭐ 571 | 🐛 8 | 🌐 Python | 📅 2021-02-19
 * [BlueFog](https://github.com/Bluefog-Lib/bluefog) ⭐ 257 | 🐛 31 | 🌐 Python | 📅 2024-07-25: Distributed and decentralized training framework for PyTorch over graph.
@@ -1012,14 +1012,14 @@
 
 #### Tensorflow
 
-* [TensorFlow](https://github.com/tensorflow/tensorflow) ⭐ 197,767 | 🐛 2,957 | 🌐 C++ | 📅 2026-08-29 - The most popular Deep Learning framework created by Google.
+* [TensorFlow](https://github.com/tensorflow/tensorflow) ⭐ 198,022 | 🐛 2,980 | 🌐 C++ | 📅 2026-08-30 - The most popular Deep Learning framework created by Google.
 * [BERT](https://github.com/google-research/bert) ⚠️ Archived: TensorFlow code and pre-trained models for BERT
-* [Machine Learning Notebooks](https://github.com/ageron/handson-ml2) ⭐ 29,955 | 🐛 229 | 🌐 Jupyter Notebook | 📅 2026-05-19: A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
-* [TensorFlow-Course](https://github.com/open-source-for-science/TensorFlow-Course) ⭐ 16,278 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2022-11-28: Simple and ready-to-use tutorials for TensorFlow
-* [Ludwig](https://github.com/uber/ludwig) ⭐ 11,745 | 🐛 1 | 🌐 Python | 📅 2026-08-24: [is a toolbox built](https://uber.github.io/ludwig/) on top of TensorFlow that allows to train and test deep learning models without the need to write code.
+* [Machine Learning Notebooks](https://github.com/ageron/handson-ml2) ⭐ 29,956 | 🐛 229 | 🌐 Jupyter Notebook | 📅 2026-05-19: A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
+* [TensorFlow-Course](https://github.com/open-source-for-science/TensorFlow-Course) ⭐ 16,277 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2022-11-28: Simple and ready-to-use tutorials for TensorFlow
+* [Ludwig](https://github.com/uber/ludwig) ⭐ 11,747 | 🐛 1 | 🌐 Python | 📅 2026-08-24: [is a toolbox built](https://uber.github.io/ludwig/) on top of TensorFlow that allows to train and test deep learning models without the need to write code.
 * [CleverHans](https://github.com/tensorflow/cleverhans) ⭐ 6,450 | 🐛 46 | 🌐 Jupyter Notebook | 📅 2024-04-10: An adversarial example library for constructing attacks, building defenses, and benchmarking both
-* [tensorFlow Privacy](https://github.com/tensorflow/privacy) ⭐ 2,026 | 🐛 136 | 🌐 Python | 📅 2026-08-26: Library for training machine learning models with privacy for training data
-* [TF Encrypted](https://tf-encrypted.io/) is a framework for encrypted deep learning in TensorFlow. It looks and feels like TensorFlow, taking advantage of the ease-of-use of the Keras API while [enabling training and prediction over encrypted data](https://github.com/tf-encrypted/tf-encrypted) ⭐ 1,243 | 🐛 144 | 🌐 Python | 📅 2024-09-25.
+* [tensorFlow Privacy](https://github.com/tensorflow/privacy) ⭐ 2,027 | 🐛 136 | 🌐 Python | 📅 2026-08-26: Library for training machine learning models with privacy for training data
+* [TF Encrypted](https://tf-encrypted.io/) is a framework for encrypted deep learning in TensorFlow. It looks and feels like TensorFlow, taking advantage of the ease-of-use of the Keras API while [enabling training and prediction over encrypted data](https://github.com/tf-encrypted/tf-encrypted) ⭐ 1,242 | 🐛 144 | 🌐 Python | 📅 2024-09-25.
 * [Turn TensorFlow functions into mathematical notations and diagrams](http://blog.varunajayasiri.com/ml/tf_for_beginners.html)
 * [Notes on installing CUDA, CuDNN and Tensorflow on Manjaro](https://leblancfg.com/installing-cuda-cudnn-tensorflow-nvidia-gtx960.html)
 * [TensorFlow is dead, long live TensorFlow!](https://hackernoon.com/tensorflow-is-dead-long-live-tensorflow-49d3e975cf04): If you’re an AI enthusiast and you didn’t see the big news this month, you might have just snoozed through an off-the-charts earthquake. Everything is about to change!
@@ -1033,7 +1033,7 @@
 * [Mesh Spreadsheet](http://mesh-spreadsheet.com/): A free, [portable spreadsheet program](https://github.com/chrispsn/mesh) ⭐ 1,558 | 🐛 41 | 🌐 JavaScript | 📅 2024-05-29.
 * [Free-Math](https://github.com/jaltekruse/Free-Math) ⭐ 73 | 🐛 168 | 🌐 JavaScript | 📅 2026-02-11: An offline React web application  for managing digital math homework
 * Good channels:
-  * [3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/): 3blue1brown, by Grant Sanderson, is some combination of math and entertainment, depending on your disposition ([site](https://www.3blue1brown.com/)) and [manim](https://github.com/3b1b/manim) ⭐ 92,156 | 🐛 490 | 🌐 Python | 📅 2026-08-18(Animation engine for explanatory math videos).
+  * [3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/): 3blue1brown, by Grant Sanderson, is some combination of math and entertainment, depending on your disposition ([site](https://www.3blue1brown.com/)) and [manim](https://github.com/3b1b/manim) ⭐ 92,202 | 🐛 490 | 🌐 Python | 📅 2026-08-18(Animation engine for explanatory math videos).
     * [3Blue1Brown-Block-Collision-Problem-Unity](https://github.com/thatrs/3Blue1Brown-Block-Collision-Problem-Unity) ⭐ 23 | 🐛 0 | 🌐 C# | 📅 2019-01-15
   * [LeiosOS](https://www.youtube.com/user/LeiosOS): I'm starting a new project, and I hope you guys find it useful! It's called the arcane algorithm archive and is an archive to all the arcane algorithms we cover. [site](https://www.algorithm-archive.org/) and [github](https://github.com/algorithm-archivists/algorithm-archive) ⭐ 2,449 | 🐛 96 | 🌐 Python | 📅 2023-12-04.
   * [Think Twice](https://www.youtube.com/channel/UC9yt3wz-6j19RwD5m5f6HSg).
@@ -1143,17 +1143,17 @@
 
 #### Data Science
 
-* [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience) ⭐ 29,887 | 🐛 8 | 📅 2026-08-27
-* [The Data Engineering Cookbook](https://github.com/andkret/Cookbook) ⭐ 15,380 | 🐛 128 | 🌐 Python | 📅 2026-07-23
-* [spyder](https://github.com/spyder-ide/spyder) ⭐ 9,300 | 🐛 1,340 | 🌐 Python | 📅 2026-08-29: Official repository for Spyder - The Scientific Python Development Environment
-* [Luna](https://www.luna-lang.org/) is a data processing and visualization environment built on a principle that people need an immediate connection to what they are building. [github repo](https://github.com/luna/luna) ⭐ 7,439 | 🐛 325 | 🌐 Java | 📅 2026-08-10, [studio](https://github.com/luna/luna-studio) (IDE) and [docs](https://luna-lang.gitbooks.io/docs/content/interface.html)
+* [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience) ⭐ 29,892 | 🐛 8 | 📅 2026-08-27
+* [The Data Engineering Cookbook](https://github.com/andkret/Cookbook) ⭐ 15,383 | 🐛 128 | 🌐 Python | 📅 2026-07-23
+* [spyder](https://github.com/spyder-ide/spyder) ⭐ 9,299 | 🐛 1,340 | 🌐 Python | 📅 2026-08-29: Official repository for Spyder - The Scientific Python Development Environment
+* [Luna](https://www.luna-lang.org/) is a data processing and visualization environment built on a principle that people need an immediate connection to what they are building. [github repo](https://github.com/luna/luna) ⭐ 7,440 | 🐛 325 | 🌐 Java | 📅 2026-08-10, [studio](https://github.com/luna/luna-studio) (IDE) and [docs](https://luna-lang.gitbooks.io/docs/content/interface.html)
 * [ferret](https://github.com/MontFerret/ferret) ⭐ 6,008 | 🐛 12 | 🌐 Go | 📅 2026-08-29: Declarative web scraping
-* [RAPIDS](http://rapids.ai): Open GPU Data Science. The RAPIDS suite of software libraries gives you the freedom to execute end-to-end data science and analytics pipelines entirely on GPUs. It relies on NVIDIA® CUDA® primitives for low-level compute optimization, but exposes that GPU parallelism and high-bandwidth memory speed through user-friendly Python interfaces. [cuml](https://github.com/rapidsai/cuml) ⭐ 5,269 | 🐛 844 | 🌐 Python | 📅 2026-08-28 - RAPIDS Machine Learning Library.
-* [Dask tutorial](https://github.com/dask/dask-tutorial) ⭐ 1,857 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2025-11-04
+* [RAPIDS](http://rapids.ai): Open GPU Data Science. The RAPIDS suite of software libraries gives you the freedom to execute end-to-end data science and analytics pipelines entirely on GPUs. It relies on NVIDIA® CUDA® primitives for low-level compute optimization, but exposes that GPU parallelism and high-bandwidth memory speed through user-friendly Python interfaces. [cuml](https://github.com/rapidsai/cuml) ⭐ 5,271 | 🐛 844 | 🌐 Python | 📅 2026-08-28 - RAPIDS Machine Learning Library.
+* [Dask tutorial](https://github.com/dask/dask-tutorial) ⭐ 1,856 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2025-11-04
 * [easystats](https://github.com/easystats/easystats) ⭐ 1,160 | 🐛 46 | 🌐 R | 📅 2026-08-05: milky\_way The easyverse.
 * [sjPlot](https://strengejacke.github.io/sjPlot/): Data Visualization for Statistics in Social Science,[repo](https://github.com/strengejacke/sjPlot) ⭐ 646 | 🐛 239 | 🌐 R | 📅 2026-04-28
 * [elegant-scipy](https://github.com/elegant-scipy/elegant-scipy) ⭐ 566 | 🐛 73 | 🌐 Python | 📅 2025-01-05: 1st Edition of Elegant SciPy (O'Reilly Publishers)
-* [insight](https://github.com/easystats/insight) ⭐ 439 | 🐛 59 | 🌐 R | 📅 2026-08-28: Easy access to model information for various model objects.
+* [insight](https://github.com/easystats/insight) ⭐ 439 | 🐛 61 | 🌐 R | 📅 2026-08-29: Easy access to model information for various model objects.
 * [RipTable](https://github.com/rtosholdings/riptable) ⭐ 395 | 🐛 124 | 🌐 Python | 📅 2024-04-25: 64bit multithreaded python data analytics tools for numpy arrays and datasets
 * [RVerbalExpressions](https://github.com/VerbalExpressions/RVerbalExpressions) ⭐ 277 | 🐛 8 | 🌐 R | 📅 2024-03-20: 👷💬 Create regular expressions easilt. [RVerbalExpressions](https://rverbalexpressions.netlify.com/index.html): The goal of RVerbalExpressions is to make it easier to construct regular expressions using grammar and functionality inspired by VerbalExpressions.
 * [edibble](https://github.com/emitanaka/edibble) ⭐ 221 | 🐛 12 | 🌐 R | 📅 2025-03-30: Grammar of Experimental Design.
@@ -1198,7 +1198,7 @@
   * [termgraph](https://github.com/mkaz/termgraph) ⭐ 3,294 | 🐛 25 | 🌐 Python | 📅 2026-03-25: a python command-line tool which draws basic graphs in the terminal
   * [arviz](https://github.com/arviz-devs/arviz) ⭐ 1,851 | 🐛 110 | 🌐 TeX | 📅 2026-08-17: Python package to plot and analyse samples from probabilistic models
   * [bonobo](https://www.bonobo-project.org/): Bonobo is a lightweight Extract-Transform-Load (ETL) framework for Python 3.5+. [github](https://github.com/python-bonobo/bonobo) ⭐ 1,613 | 🐛 107 | 🌐 Python | 📅 2023-05-12
-  * [pyjanitor](https://github.com/ericmjl/pyjanitor) ⭐ 1,498 | 🐛 155 | 🌐 Python | 📅 2026-08-28: Python implementation of R package Janitor
+  * [pyjanitor](https://github.com/ericmjl/pyjanitor) ⭐ 1,498 | 🐛 157 | 🌐 Python | 📅 2026-08-28: Python implementation of R package Janitor
   * [matrixprofile-ts](https://github.com/target/matrixprofile-ts) ⚠️ Archived: A Python library for detecting patterns and anomalies in massive datasets using the Matrix Profile
   * [Python Plotting for Exploratory Data Analysis](https://pythonplot.com/)  by [Tim Hopper](https://twitter.com/tdhopper/status/1212821555710963712) [repo](https://github.com/tdhopper/pythonplot.com) ⭐ 113 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-08-26
   * [Data Science with Python](https://sandipanweb.wordpress.com/2017/12/16/data-science-with-python-exploratory-analysis-with-movie-ratings-and-fraud-detection-with-credit-card-transactions/): Exploratory Analysis with Movie-Ratings and Fraud Detection with Credit-Card Transactions.
@@ -1208,9 +1208,9 @@
   * [Read fixed width text file in Python](https://gist.github.com/rochacbruno/059e1223f5b69d3b99b509a4962cf3aa)
   * [Exploring Mito](https://www.analyticsvidhya.com/blog/2021/06/exploring-mito-automatic-python-code-for-spreadsheet-operations/): Automatic Python Code for SpreadSheet Operations
 * Jupyter:
-  * [jupyter-themes](https://github.com/dunovank/jupyter-themes) ⭐ 9,818 | 🐛 205 | 🌐 CSS | 📅 2025-06-22: Custom Jupyter Notebook Themes
-  * [jupytext](https://github.com/mwouts/jupytext) ⭐ 7,235 | 🐛 171 | 🌐 Python | 📅 2026-08-18: Jupyter notebooks as Markdown documents, Julia, Python or R scripts
-  * [The Jupyter Notebooks behind: "A Whirlwind Tour of Python"](https://github.com/jakevdp/WhirlwindTourOfPython) ⭐ 4,035 | 🐛 25 | 🌐 Jupyter Notebook | 📅 2024-01-31
+  * [jupyter-themes](https://github.com/dunovank/jupyter-themes) ⭐ 9,817 | 🐛 205 | 🌐 CSS | 📅 2025-06-22: Custom Jupyter Notebook Themes
+  * [jupytext](https://github.com/mwouts/jupytext) ⭐ 7,236 | 🐛 171 | 🌐 Python | 📅 2026-08-18: Jupyter notebooks as Markdown documents, Julia, Python or R scripts
+  * [The Jupyter Notebooks behind: "A Whirlwind Tour of Python"](https://github.com/jakevdp/WhirlwindTourOfPython) ⭐ 4,036 | 🐛 25 | 🌐 Jupyter Notebook | 📅 2024-01-31
   * [nbviewer](https://github.com/jupyter/nbviewer) ⭐ 2,281 | 🐛 204 | 🌐 Python | 📅 2026-07-06 as a web service: Render Jupyter Notebooks as static web pages.
   * [colab-ssh](https://github.com/WassimBenzarti/colab-ssh) ⭐ 1,079 | 🐛 21 | 🌐 Python | 📅 2024-11-08: Connect to Google Colab using SSH.
   * [pyheatmagic](https://github.com/csurfer/pyheatmagic) ⭐ 1,029 | 🐛 2 | 🌐 Python | 📅 2024-07-14: IPython magic command to profile and view your python code as a heat map.
@@ -1267,9 +1267,9 @@
 
 #### Time Series
 
-* [prometheus](https://github.com/prometheus/prometheus) ⭐ 65,878 | 🐛 879 | 🌐 Go | 📅 2026-08-28: The Prometheus monitoring system and time series database.
-* [dart](https://github.com/unit8co/darts) ⭐ 9,510 | 🐛 229 | 🌐 Python | 📅 2026-08-21: A python library for easy manipulation and forecasting of time series.
-* [PlotJuggler](https://github.com/facontidavide/PlotJuggler) ⭐ 6,134 | 🐛 161 | 🌐 C++ | 📅 2026-08-10: The Time Series Visualization Tool that you deserve.
+* [prometheus](https://github.com/prometheus/prometheus) ⭐ 65,897 | 🐛 884 | 🌐 Go | 📅 2026-08-29: The Prometheus monitoring system and time series database.
+* [dart](https://github.com/unit8co/darts) ⭐ 9,511 | 🐛 229 | 🌐 Python | 📅 2026-08-21: A python library for easy manipulation and forecasting of time series.
+* [PlotJuggler](https://github.com/facontidavide/PlotJuggler) ⭐ 6,135 | 🐛 162 | 🌐 C++ | 📅 2026-08-10: The Time Series Visualization Tool that you deserve.
 * [OpenTSDB](http://opentsdb.net/): A scalable, distributed Time Series Database. [repo](https://github.com/OpenTSDB/opentsdb) ⭐ 5,065 | 🐛 538 | 🌐 Java | 📅 2024-12-12
 * [Latent Dirichlet Allocation coupled with Bayesian Time Series analyses](https://github.com/weecology/LDATS) ⭐ 25 | 🐛 22 | 🌐 R | 📅 2023-09-17. [overview](https://weecology.github.io/LDATS/)
 
@@ -1294,8 +1294,8 @@
 
 #### Data Graphics
 
-* [ImageMagick creates huge temporary files · Issue #395 · ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick/issues/395) ⭐ 17,243 | 🐛 160 | 🌐 C | 📅 2026-08-29
-* [roughViz](https://github.com/jwilber/roughViz) ⭐ 7,152 | 🐛 13 | 🌐 JavaScript | 📅 2024-04-26: Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
+* [ImageMagick creates huge temporary files · Issue #395 · ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick/issues/395) ⭐ 17,253 | 🐛 160 | 🌐 C | 📅 2026-08-29
+* [roughViz](https://github.com/jwilber/roughViz) ⭐ 7,153 | 🐛 13 | 🌐 JavaScript | 📅 2024-04-26: Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
 * [Microsoft open sources SandDance, a visual data exploration tool](https://cloudblogs.microsoft.com/opensource/2019/10/10/microsoft-open-sources-sanddance-visual-data-exploration-tool/). [site](https://sanddance.js.org/), [repo](https://github.com/Microsoft/SandDance) ⭐ 7,143 | 🐛 95 | 🌐 TypeScript | 📅 2026-08-25
 * [OpenSubdiv](http://graphics.pixar.com/opensubdiv/docs/intro.html) ([github](https://github.com/PixarAnimationStudios/OpenSubdiv) ⭐ 3,071 | 🐛 58 | 🌐 C++ | 📅 2026-08-19): is a set of open source libraries that implement high performance subdivision surface (subdiv) evaluation on massively parallel CPU and GPU architectures.
 * [vedo](https://github.com/marcomusy/vedo) ⭐ 2,265 | 🐛 172 | 🌐 Python | 📅 2026-08-04: A python module for scientific analysis of 3D objects based on VTK and numpy
@@ -1417,12 +1417,12 @@
 
 ### Coding
 
-* [jax](https://github.com/google/jax) ⭐ 36,222 | 🐛 2,493 | 🌐 Python | 📅 2026-08-29: Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
-* [micro](https://micro-editor.github.io/): a modern and intuitive [terminal-based text editor](https://github.com/zyedidia/micro#linux-clipboard-support) ⭐ 29,456 | 🐛 986 | 🌐 Go | 📅 2026-08-29.
-* [pyodide](https://github.com/iodide-project/pyodide) ⭐ 14,803 | 🐛 396 | 🌐 Python | 📅 2026-08-27: The Python scientific stack, compiled to WebAssembly
-* [libvips](https://github.com/libvips/libvips) ⭐ 11,614 | 🐛 81 | 🌐 C | 📅 2026-08-27: A fast image processing library with low memory needs.
+* [jax](https://github.com/google/jax) ⭐ 36,226 | 🐛 2,494 | 🌐 Python | 📅 2026-08-30: Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+* [micro](https://micro-editor.github.io/): a modern and intuitive [terminal-based text editor](https://github.com/zyedidia/micro#linux-clipboard-support) ⭐ 29,470 | 🐛 986 | 🌐 Go | 📅 2026-08-30.
+* [pyodide](https://github.com/iodide-project/pyodide) ⭐ 14,804 | 🐛 396 | 🌐 Python | 📅 2026-08-27: The Python scientific stack, compiled to WebAssembly
+* [libvips](https://github.com/libvips/libvips) ⭐ 11,618 | 🐛 81 | 🌐 C | 📅 2026-08-27: A fast image processing library with low memory needs.
 * [Oni](https://github.com/onivim/oni) ⚠️ Archived: Modern Modal Editing - powered by Neovim
-* [bild](https://github.com/anthonynsimon/bild) ⭐ 4,207 | 🐛 17 | 🌐 Go | 📅 2026-08-01: A collection of parallel image processing algorithms in pure Go
+* [bild](https://github.com/anthonynsimon/bild) ⭐ 4,208 | 🐛 17 | 🌐 Go | 📅 2026-08-01: A collection of parallel image processing algorithms in pure Go
 * [programmers-introduction-to-mathematics](https://github.com/pim-book/programmers-introduction-to-mathematics) ⭐ 3,655 | 🐛 10 | 🌐 JavaScript | 📅 2023-03-04: Code for [A Programmer's Introduction to Mathematics](https://pimbook.org)
 * [An interactive, explorable explanation about the peculiar magic of sound waves](https://github.com/joshwcomeau/waveforms) ⭐ 1,479 | 🐛 4 | 🌐 JavaScript | 📅 2018-02-21
 * [tandem](https://github.com/typeintandem/tandem) ⭐ 703 | 🐛 24 | 🌐 Python | 📅 2023-04-18: Typing in Tandem. Decentralized, cross-editor, collaborative text-editing!
@@ -1481,8 +1481,8 @@
 
 ### Music
 
-* [Rack](https://github.com/VCVRack/Rack) ⭐ 4,406 | 🐛 307 | 🌐 C++ | 📅 2025-11-04: The virtual Eurorack studio
-* [Sonic Visualiser](https://www.sonicvisualiser.org/) is a free, open-source application for Windows, Linux, and Mac, designed to be the first program you reach for when want to study a music recording closely. It's designed for musicologists, archivists, signal-processing researchers, and anyone else looking for a friendly way to look at what lies inside the audio file. [github repo](https://github.com/sonic-visualiser/sonic-visualiser) ⭐ 889 | 🐛 83 | 🌐 C++ | 📅 2025-12-07
+* [Rack](https://github.com/VCVRack/Rack) ⭐ 4,407 | 🐛 307 | 🌐 C++ | 📅 2025-11-04: The virtual Eurorack studio
+* [Sonic Visualiser](https://www.sonicvisualiser.org/) is a free, open-source application for Windows, Linux, and Mac, designed to be the first program you reach for when want to study a music recording closely. It's designed for musicologists, archivists, signal-processing researchers, and anyone else looking for a friendly way to look at what lies inside the audio file. [github repo](https://github.com/sonic-visualiser/sonic-visualiser) ⭐ 890 | 🐛 84 | 🌐 C++ | 📅 2025-12-07
 * [WASM SYNTH, or, how music taught me the beauty of math](https://timdaub.github.io/2020/02/19/wasm-synth/#f1) [repo](https://github.com/TimDaub/wasm-synth) ⭐ 129 | 🐛 15 | 🌐 JavaScript | 📅 2023-03-02
 * [Hum Synthesizer](https://github.com/crbulakites/hum) ⭐ 43 | 🐛 0 | 🌐 Rust | 📅 2026-02-01: A music notation language and synthesizer written in Rust.
 * [The Mystery and Music of Kaprekar Constant- 6174](http://arabale.com/blog/2014/4/29/the-mystery-and-music-of-kaprekar-constant-6174)
@@ -1496,9 +1496,9 @@
 
 ## Physics
 
-* [This program generates bitmaps that are locally similar to the input bitmap](https://github.com/mxgmn/WaveFunctionCollapse) ⭐ 25,296 | 🐛 9 | 🌐 C# | 📅 2026-03-22
+* [This program generates bitmaps that are locally similar to the input bitmap](https://github.com/mxgmn/WaveFunctionCollapse) ⭐ 25,301 | 🐛 9 | 🌐 C# | 📅 2026-03-22
 * [tsParticles](https://github.com/matteobruni/tsparticles) ⭐ 8,972 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-13: Easily add particles animations to your website. Compatible also with React, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno.
-* [Walk through an infinite, procedurally generated city](https://github.com/marian42/wavefunctioncollapse) ⭐ 4,856 | 🐛 9 | 🌐 C# | 📅 2021-03-28
+* [Walk through an infinite, procedurally generated city](https://github.com/marian42/wavefunctioncollapse) ⭐ 4,857 | 🐛 9 | 🌐 C# | 📅 2021-03-28
 * [An interactive, explorable explanation about the peculiar magic of sound waves.](https://github.com/joshwcomeau/waveforms) ⭐ 1,479 | 🐛 4 | 🌐 JavaScript | 📅 2018-02-21
 * [SOFA](https://www.sofa-framework.org/): is an efficient framework dedicated to research, prototyping and development of physics-based simulations. [github](https://github.com/sofa-framework/sofa/) ⭐ 1,251 | 🐛 462 | 🌐 C++ | 📅 2026-08-27.
 * [Physics Travel Guide](https://physicstravelguide.com)
@@ -1510,14 +1510,14 @@
 
 ### Radio
 
-* [gqrx](https://gqrx.dk/): is an open source software defined radio receiver (SDR) powered by the GNU Radio and the Qt graphical toolkit. [Gqrx](https://github.com/csete/gqrx) ⭐ 3,667 | 🐛 265 | 🌐 C++ | 📅 2026-08-06
+* [gqrx](https://gqrx.dk/): is an open source software defined radio receiver (SDR) powered by the GNU Radio and the Qt graphical toolkit. [Gqrx](https://github.com/csete/gqrx) ⭐ 3,669 | 🐛 265 | 🌐 C++ | 📅 2026-08-06
 * [Open Source Monitoring of Navigation Systems](https://galmon.eu/). code: [galmon](https://github.com/berthubert/galmon) ⭐ 222 | 🐛 66 | 🌐 C++ | 📅 2026-08-04
 * [The Galmon GNSS Monitoring Project](https://galmon.eu/): Our goals are to monitor the major Global Navigation Satellite Systems, including GPS, GLONASS, Galileo and BeiDou, but also Space Base Augmentation Systems like WAAS, EGNOS and GAGAN. [Tantalizing Galileo High Accuracy Service](https://twitter.com/GalileoSats/status/1396845558850015237)
 
 ### Astronomy
 
 * [AstroML](https://github.com/astroML/astroML) ⭐ 1,199 | 🐛 71 | 🌐 Python | 📅 2024-05-25: Machine learning, statistics, and data mining for astronomy and astrophysics
-* [astroquery](https://github.com/astropy/astroquery) ⭐ 790 | 🐛 414 | 🌐 Python | 📅 2026-08-28: Functions and classes to access online data resources. Maintainers: @keflavich and @bsipocz and @ceb8
+* [astroquery](https://github.com/astropy/astroquery) ⭐ 790 | 🐛 415 | 🌐 Python | 📅 2026-08-28: Functions and classes to access online data resources. Maintainers: @keflavich and @bsipocz and @ceb8
 * [astroplan](https://github.com/astropy/astroplan) ⭐ 224 | 🐛 70 | 🌐 Python | 📅 2026-08-27: Observation planning package for astronomers.
 * [pyke](https://github.com/KeplerGO/pyke) ⭐ 120 | 🐛 38 | 🌐 Python | 📅 2019-02-21: Easy command line tools for Kepler, K2 & TESS data analysis.
 * [betelbot](https://github.com/hippke/betelbot) ⭐ 96 | 🐛 1 | 🌐 Python | 📅 2023-10-01: Betelgeuse Supernova Twitter Bot
@@ -1567,9 +1567,9 @@
 
 ### NASA
 
-* [Open MCT](https://nasa.github.io/openmct/): is a next-generation mission control framework for visualization of data on desktop and mobile devices - [github](https://github.com/nasa/openmct) ⭐ 13,097 | 🐛 1,075 | 🌐 JavaScript | 📅 2026-08-26
-* [fprime](https://github.com/nasa/fprime) ⭐ 11,708 | 🐛 447 | 🌐 C++ | 📅 2026-08-28: A flight software and embedded systems framework.
-* [JPL Open Source Rover Project](https://github.com/nasa-jpl/open-source-rover) ⭐ 9,613 | 🐛 17 | 🌐 Prolog | 📅 2026-08-13: A build-it-yourself, 6-wheel rover based on the rovers on Mars!
+* [Open MCT](https://nasa.github.io/openmct/): is a next-generation mission control framework for visualization of data on desktop and mobile devices - [github](https://github.com/nasa/openmct) ⭐ 13,099 | 🐛 1,075 | 🌐 JavaScript | 📅 2026-08-26
+* [fprime](https://github.com/nasa/fprime) ⭐ 11,712 | 🐛 456 | 🌐 C++ | 📅 2026-08-29: A flight software and embedded systems framework.
+* [JPL Open Source Rover Project](https://github.com/nasa-jpl/open-source-rover) ⭐ 9,614 | 🐛 17 | 🌐 Prolog | 📅 2026-08-13: A build-it-yourself, 6-wheel rover based on the rovers on Mars!
 * [Sawppy](https://github.com/Roger-random/Sawppy_Rover) ⭐ 508 | 🐛 1 | 🌐 C | 📅 2025-09-21: is a motorized model of Mars rovers Curiosity and Mars 2020. It faithfully reproduces the Rocker-Bogie suspension kinematics of real rovers and is intended to be a hardware platform for future software projects in autonomous operation. Go forth and boldly explore the back yard, Sawppy!
 * [A collection of Jupyter notebook explorations for NASA's Space Math examples.](https://github.com/dynamicwebpaige/spacemath) ⭐ 6 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2018-06-09
 * [HORIZONS Web-Interface](https://ssd.jpl.nasa.gov/horizons.cgi?CGISESSID=f7047642ea793b6fabbd2a9e97319842\&s_body=1#top)
@@ -1603,8 +1603,8 @@
 
 ## Biology
 
-* [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,261 | 🐛 35 | 📅 2026-04-07: A curated list of awesome Bioinformatics libraries and software.
-* [MNE-Python](https://github.com/mne-tools/mne-python) ⭐ 3,497 | 🐛 628 | 🌐 Python | 📅 2026-08-28: Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python
+* [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,260 | 🐛 36 | 📅 2026-04-07: A curated list of awesome Bioinformatics libraries and software.
+* [MNE-Python](https://github.com/mne-tools/mne-python) ⭐ 3,497 | 🐛 633 | 🌐 Python | 📅 2026-08-29: Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python
 * [nCoV2019](https://github.com/beoutbreakprepared/nCoV2019) ⭐ 649 | 🐛 41 | 🌐 HTML | 📅 2022-12-08: Location for summaries and analyses of data related to n-CoV 2019, first reported in Wuhan, China.
 * [baltic](https://github.com/evogytis/baltic) ⭐ 128 | 🐛 5 | 🌐 Python | 📅 2026-08-27: backronymed adaptable lightweight tree import code for molecular phylogeny manipulation, analysis and visualisation. Development is back on the evogytis/baltic branch (i.e. here).
 * [Seraphim](http://evolve.zoo.ox.ac.uk/Evolve/Seraphim.html): Studying Environmental Rasters And PHylogenetically Informed Movements. [seraphim](https://github.com/evogytis/baltic) ⭐ 128 | 🐛 5 | 🌐 Python | 📅 2026-08-27 is a R package for studying environmental rasters and phylogenetic informed movements
@@ -1625,7 +1625,7 @@
 
 ## Geography
 
-* [GeoPandas](https://github.com/geopandas/geopandas) ⭐ 5,233 | 🐛 429 | 🌐 Python | 📅 2026-08-28: Python tools for geographic data
+* [GeoPandas](https://github.com/geopandas/geopandas) ⭐ 5,234 | 🐛 417 | 🌐 Python | 📅 2026-08-29: Python tools for geographic data
 * [plus codes](https://plus.codes/). [open-location-code](https://github.com/google/open-location-code) ⭐ 4,347 | 🐛 61 | 🌐 Java | 📅 2026-03-30: Open Location Code is a library to generate short codes that can be used like street addresses, for places where street addresses don't exist.
 * [S2Geometry](http://s2geometry.io/): S2 is a library for spherical geometry that aims to have the same robustness, flexibility, and performance as the very best planar geometry libraries [github](https://github.com/google/s2geometry) ⭐ 2,719 | 🐛 77 | 🌐 C++ | 📅 2026-08-25.
 * [geobr](https://github.com/ipeaGIT/geobr) ⭐ 943 | 🐛 20 | 🌐 R | 📅 2026-08-21: Easy access to shapefiles of the Brazilian Institute of Geography and Statistics (IBGE) and other official spatial data sets of Brazil.
@@ -1669,7 +1669,7 @@
 
 ### Economy
 
-* [Awesome Blockchain](https://github.com/yjjnls/awesome-blockchain) ⭐ 3,628 | 🐛 51 | 🌐 Go | 📅 2024-03-22: Curated list of resources for the development and applications of blockchain.
+* [Awesome Blockchain](https://github.com/yjjnls/awesome-blockchain) ⭐ 3,629 | 🐛 51 | 🌐 Go | 📅 2024-03-22: Curated list of resources for the development and applications of blockchain.
 * [surpriver](https://github.com/tradytics/surpriver) ⭐ 1,876 | 🐛 13 | 🌐 Python | 📅 2021-08-13: Find big moving stocks before they move using machine learning and anomaly detection.
 * [Money as a System of Control](https://thedistillery.pub/money-as-a-system-of-control-andreas-m-antonopoulos-video-transcript) – Andreas M. Antonopoulos (Video & Transcript)
 * [Bedrock](https://bedrockdb.com/) is a simple, modular, WAN-replicated, Blockchain-based data foundation for global-scale applications.
@@ -1697,7 +1697,7 @@
 
 ## On-line Services
 
-* [Memex](https://worldbrain.io/#) - your photographic memory for the web. Open-Source. Private. [repo](https://github.com/WorldBrain/Memex) ⭐ 4,717 | 🐛 319 | 🌐 TypeScript | 📅 2025-12-02
+* [Memex](https://worldbrain.io/#) - your photographic memory for the web. Open-Source. Private. [repo](https://github.com/WorldBrain/Memex) ⭐ 4,718 | 🐛 319 | 🌐 TypeScript | 📅 2025-12-02
 * Some [useful](https://github.com/Spacial/csstuff/blob/master/UsefulSites.md) ⭐ 85 | 🐛 2 | 🌐 TeX | 📅 2025-11-23 on-line services.
 * Google [colab](https://colab.research.google.com/notebook) and [Cloud Source](https://source.cloud.google.com/onboarding/welcome)
 * [Gist Good](https://github.com/graciano/gist-good): Organize and search your authored and starred gists.
@@ -1709,8 +1709,8 @@
 
 ## Computer Graphics
 
-* [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) ⭐ 41,019 | 🐛 193 | 🌐 JavaScript | 📅 2024-07-28: The best design tools for everything.
-* [bgfx](https://github.com/bkaradzic/bgfx) ⭐ 17,440 | 🐛 285 | 🌐 C++ | 📅 2026-08-28:Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
+* [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) ⭐ 41,028 | 🐛 195 | 🌐 JavaScript | 📅 2024-07-28: The best design tools for everything.
+* [bgfx](https://github.com/bkaradzic/bgfx) ⭐ 17,444 | 🐛 287 | 🌐 C++ | 📅 2026-08-30:Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 * [A single-header ANSI C gui library](https://github.com/vurtun/nuklear) ⚠️ Archived
 * [PhysX SDK](https://news.developer.nvidia.com/announcing-physx-sdk-4-0-an-open-source-physics-engine/): an Open-Source [Physics Engine](https://github.com/NVIDIAGameWorks/PhysX-3.4) ⭐ 2,412 | 🐛 59 | 🌐 C++ | 📅 2022-11-15
 * [Perceptual image hashing for PHP](https://github.com/jenssegers/imagehash) ⭐ 2,063 | 🐛 39 | 🌐 PHP | 📅 2025-09-17
@@ -1765,20 +1765,20 @@
 * [Craft](https://github.com/fogleman/Craft) ⭐ 11,094 | 🐛 129 | 🌐 C | 📅 2024-04-03: A simple Minecraft clone written in C using modern OpenGL (shaders).
 * [Opendiablo2](https://github.com/OpenDiablo2/OpenDiablo2) ⚠️ Archived: An open source re-implementation of Diablo 2
 * [gb-studio](https://github.com/chrismaltby/gb-studio) ⭐ 9,387 | 🐛 792 | 🌐 TypeScript | 📅 2026-08-28: A free and easy to use retro adventure game creator for your favourite [handheld video game system](https://www.gbstudio.dev)
-* [sm64](https://github.com/n64decomp/sm64) ⭐ 8,741 | 🐛 28 | 🌐 C | 📅 2024-02-04: A Super Mario 64 decompilation, brought to you by a bunch of clever folks.
-* [MarkovJunior](https://github.com/mxgmn/MarkovJunior) ⭐ 8,169 | 🐛 9 | 🌐 C# | 📅 2026-03-20: Probabilistic PL based on pattern matching and constraint propagation, 148 examples.
-* [Citybound](https://github.com/citybound/citybound) ⭐ 8,154 | 🐛 153 | 🌐 Rust | 📅 2023-01-07: Citybound is a city building game with a focus on realism, collaborative planning and simulation of microscopic details.
-* [OpenSpiel](https://github.com/deepmind/open_spiel) ⭐ 5,441 | 🐛 43 | 🌐 C++ | 📅 2026-08-25: A Framework for Reinforcement Learning in Games.
-* [Zelda 3 in C](https://github.com/snesrev/zelda3) ⭐ 4,739 | 🐛 88 | 🌐 C | 📅 2023-12-27: A reimplementation of Zelda 3.
-* [The Comprehensive Kerbal Archive Network (CKAN)](https://github.com/KSP-CKAN/CKAN) ⭐ 2,629 | 🐛 84 | 🌐 C# | 📅 2026-07-17
-* [Synfig Studio](https://github.com/synfig/synfig/) ⭐ 2,286 | 🐛 725 | 🌐 C++ | 📅 2026-08-27: This is the Official source code repository of the Synfig project.
+* [sm64](https://github.com/n64decomp/sm64) ⭐ 8,745 | 🐛 28 | 🌐 C | 📅 2024-02-04: A Super Mario 64 decompilation, brought to you by a bunch of clever folks.
+* [MarkovJunior](https://github.com/mxgmn/MarkovJunior) ⭐ 8,171 | 🐛 9 | 🌐 C# | 📅 2026-03-20: Probabilistic PL based on pattern matching and constraint propagation, 148 examples.
+* [Citybound](https://github.com/citybound/citybound) ⭐ 8,155 | 🐛 153 | 🌐 Rust | 📅 2023-01-07: Citybound is a city building game with a focus on realism, collaborative planning and simulation of microscopic details.
+* [OpenSpiel](https://github.com/deepmind/open_spiel) ⭐ 5,444 | 🐛 45 | 🌐 C++ | 📅 2026-08-25: A Framework for Reinforcement Learning in Games.
+* [Zelda 3 in C](https://github.com/snesrev/zelda3) ⭐ 4,741 | 🐛 88 | 🌐 C | 📅 2023-12-27: A reimplementation of Zelda 3.
+* [The Comprehensive Kerbal Archive Network (CKAN)](https://github.com/KSP-CKAN/CKAN) ⭐ 2,631 | 🐛 84 | 🌐 C# | 📅 2026-07-17
+* [Synfig Studio](https://github.com/synfig/synfig/) ⭐ 2,287 | 🐛 723 | 🌐 C++ | 📅 2026-08-29: This is the Official source code repository of the Synfig project.
 * [Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) ⭐ 1,624 | 🐛 13 | 🌐 C++ | 📅 2026-08-22: Multiplayer top-down shooter made from scratch. Comes with an in-game Editor!
 * [toy](https://github.com/hugoam/toy) ⭐ 1,593 | 🐛 13 | 🌐 C++ | 📅 2021-04-25: the thin c++ game engine - [toyengine](https://hugoam.github.io/toy-io/).
-* [SDLPoP](https://github.com/NagyD/SDLPoP) ⭐ 1,274 | 🐛 78 | 🌐 C | 📅 2025-12-24: An open-source port of Prince of Persia, based on the disassembly of the DOS version.
+* [SDLPoP](https://github.com/NagyD/SDLPoP) ⭐ 1,275 | 🐛 78 | 🌐 C | 📅 2025-12-24: An open-source port of Prince of Persia, based on the disassembly of the DOS version.
 * [quinesanek](https://github.com/taylorconor/quinesnake) ⭐ 926 | 🐛 1 | 🌐 C++ | 📅 2019-07-27: A quine that plays snake over its own source!
 * [Links Awakening DX Disassembly](https://github.com/zladx/LADX-Disassembly) ⭐ 897 | 🐛 18 | 🌐 Assembly | 📅 2026-08-27: Disassembly of Legend of Zelda: Links Awakening DX.
 * [wick editor](https://www.wickeditor.com/): [The Wick Editor is a free](https://github.com/Wicklets/wick-editor) ⭐ 840 | 🐛 186 | 🌐 JavaScript | 📅 2023-03-06, open-source tool for creating games, animations, and everything in-between!
-* [Clspv](https://github.com/google/clspv) ⭐ 726 | 🐛 63 | 🌐 LLVM | 📅 2026-08-27 is a prototype compiler for a subset of OpenCL C to Vulkan compute shaders.
+* [Clspv](https://github.com/google/clspv) ⭐ 726 | 🐛 64 | 🌐 LLVM | 📅 2026-08-27 is a prototype compiler for a subset of OpenCL C to Vulkan compute shaders.
 * [CivJS](https://github.com/Venerons/CivJS) ⚠️ Archived: A JavaScript 4X Game
 * [Sol-R](https://github.com/favreau/Sol-R) ⭐ 305 | 🐛 0 | 🌐 C++ | 📅 2025-10-07: Open-Source CUDA/OpenCL Speed Of Light Ray-tracer
 * [VRWorkout](https://github.com/mgschwan/VRWorkout) ⭐ 267 | 🐛 9 | 🌐 GDScript | 📅 2022-05-12: Virtual reality workout game for Oculus Quest.
@@ -1832,10 +1832,10 @@
 
 ## Studies
 
-* [Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science) ⭐ 208,494 | 🐛 27 | 🌐 HTML | 📅 2026-07-14
-* [the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) ⭐ 16,718 | 🐛 200 | 🌐 Jupyter Notebook | 📅 2026-05-20: One has no future if one couldn't teach themself.
+* [Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science) ⭐ 208,543 | 🐛 27 | 🌐 HTML | 📅 2026-07-14
+* [the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) ⭐ 16,730 | 🐛 200 | 🌐 Jupyter Notebook | 📅 2026-05-20: One has no future if one couldn't teach themself.
 * [Free technical resources for faculty, students, and Microsoft developer advocates for use in computer science learning forums](https://github.com/MSFTImagine/computerscience) ⚠️ Archived
-* [WordPecker App](https://github.com/baturyilmaz/wordpecker-app) ⭐ 2,240 | 🐛 10 | 🌐 TypeScript | 📅 2025-08-08: A personalized language-learning tool that combines Duolingo-style lessons with your own curated vocabulary lists. Seamlessly add words from books, articles, or videos, and revisit them through interactive quizzes and LLM-generated lessons.
+* [WordPecker App](https://github.com/baturyilmaz/wordpecker-app) ⭐ 2,241 | 🐛 10 | 🌐 TypeScript | 📅 2025-08-08: A personalized language-learning tool that combines Duolingo-style lessons with your own curated vocabulary lists. Seamlessly add words from books, articles, or videos, and revisit them through interactive quizzes and LLM-generated lessons.
 * [DevChallenge](https://github.com/Lorenalgm/DevChallenge) ⭐ 1,146 | 🐛 15 | 🌐 TypeScript | 📅 2026-02-11: A website for developers to improve their skills by doing front-end and back-end challenges
 * (pt-br) [Free IT Courses](https://github.com/alinebastos/free-courses) ⭐ 882 | 🐛 6 | 📅 2023-01-19
 * [Hacking Science](https://github.com/rjruigrok/HackingScience) ⭐ 25 | 🐛 1 | 🌐 Python | 📅 2014-05-15: Computer-Aided Survey Writing - Paper in a Day
@@ -1891,7 +1891,7 @@
 
 ### web
 
-* [FreshRSS](https://github.com/FreshRSS/FreshRSS) ⭐ 15,866 | 🐛 665 | 🌐 PHP | 📅 2026-08-28: A free, self-hostable aggregator…
+* [FreshRSS](https://github.com/FreshRSS/FreshRSS) ⭐ 15,874 | 🐛 662 | 🌐 PHP | 📅 2026-08-29: A free, self-hostable aggregator…
 * guardian [frontend](https://github.com/guardian/frontend) ⭐ 5,899 | 🐛 210 | 🌐 Scala | 📅 2026-08-28: Source for theguardian.com
 * [unCaptcha2](https://github.com/ecthros/uncaptcha2) ⭐ 4,917 | 🐛 6 | 🌐 Python | 📅 2019-01-18: defeating the latest version of ReCaptcha with 91% accuracy
 * [walt](https://github.com/ballercat/walt) ⭐ 4,631 | 🐛 27 | 🌐 JavaScript | 📅 2023-01-02: Walt is a JavaScript-like syntax for WebAssembly text format
@@ -1964,13 +1964,13 @@
 * [Neural Networks and Philosophy of Language](https://towardsdatascience.com/neural-networks-and-philosophy-of-language-31c34c0796da): Why Wittgenstein’s theories are the basis of all modern NLP
 * [The Right to Read](https://www.gnu.org/philosophy/right-to-read.en.html): GNU Project - Free Software Foundation
 * [The Four Desires Driving All Human Behavior: Bertrand Russell’s Magnificent Nobel Prize Acceptance Speech – Brain Pickings](https://www.brainpickings.org/2015/09/21/bertrand-russell-nobel-prize-acceptance-speech/)
-* [Philosophy](https://github.com/Jfaler/Philosophize) ⭐ 364 | 🐛 1 | 📅 2020-12-27: 📚 A curated list of philosophy resources.
+* [Philosophy](https://github.com/Jfaler/Philosophize) ⭐ 363 | 🐛 1 | 📅 2020-12-27: 📚 A curated list of philosophy resources.
 * [Translating and Interpreting Chinese Philosophy](https://plato.stanford.edu/entries/chinese-translate-interpret/)
 
 ## General
 
-* [Apache Flink](https://github.com/apache/flink) ⭐ 26,301 | 🐛 370 | 🌐 Java | 📅 2026-08-28: Apache Flink is an open source stream processing framework with powerful stream- and batch-processing capabilities.
-* [lists](https://github.com/jnv/lists) ⭐ 11,441 | 🐛 23 | 📅 2026-03-23: The definitive list of lists (of lists) curated on GitHub
+* [Apache Flink](https://github.com/apache/flink) ⭐ 26,303 | 🐛 373 | 🌐 Java | 📅 2026-08-29: Apache Flink is an open source stream processing framework with powerful stream- and batch-processing capabilities.
+* [lists](https://github.com/jnv/lists) ⭐ 11,444 | 🐛 24 | 📅 2026-03-23: The definitive list of lists (of lists) curated on GitHub
 * [awesome-uses](https://github.com/wesbos/awesome-uses) ⭐ 5,299 | 🐛 32 | 🌐 JavaScript | 📅 2026-08-20: A list of /uses pages that detail apps and gear used by professional web developers.
 * (pt-br) [Lista Maravilhosa de Projetos Open-Source](https://github.com/camilatigre/listamaravilhosaopensource) ⭐ 2,571 | 🐛 25 | 🌐 JavaScript | 📅 2026-06-15: Lista com links de projetos open-source para os níveis: iniciante, intermediário e avançado. Dividido por linguagem e idiomas!
 * [gh-card](https://github.com/nwtgck/gh-card) ⭐ 1,350 | 🐛 55 | 🌐 TypeScript | 📅 2021-08-01, [link](https://gh-card.dev/)
@@ -2003,14 +2003,14 @@
 
 ### Jobs
 
-* [system-design-primer](https://github.com/donnemartin/system-design-primer) ⭐ 366,612 | 🐛 613 | 🌐 Python | 📅 2026-03-20: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-* [Coding Interview University](https://github.com/jwasham/coding-interview-university) ⭐ 359,933 | 🐛 126 | 📅 2025-08-28: A complete computer science study plan to become a software engineer.
-* [GitHub Résumé](https://github.com/resume/resume.github.com) ⭐ 62,892 | 🐛 76 | 🌐 JavaScript | 📅 2023-02-15
-* [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) ⭐ 51,820 | 🐛 10 | 🌐 JavaScript | 📅 2026-08-24: Companies that don't have a broken hiring process.
-* [interview](https://github.com/Olshansk/interview) ⭐ 18,360 | 🐛 12 | 📅 2024-12-25: Everything you need to prepare for your technical interview.
-* [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) ⭐ 17,158 | 🐛 17 | 📅 2026-05-16: Tools of The Trade, from Hacker News.
-* [test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) ⭐ 11,847 | 🐛 19 | 📅 2024-11-19
-* [OpenResume](https://www.open-resume.com/) Create a professional resume easily with this free, open-source, and powerful [resume builder](https://github.com/xitanggg/open-resume) ⭐ 8,869 | 🐛 144 | 🌐 TypeScript | 📅 2024-10-29.
+* [system-design-primer](https://github.com/donnemartin/system-design-primer) ⭐ 366,759 | 🐛 613 | 🌐 Python | 📅 2026-03-20: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+* [Coding Interview University](https://github.com/jwasham/coding-interview-university) ⭐ 359,978 | 🐛 126 | 📅 2025-08-28: A complete computer science study plan to become a software engineer.
+* [GitHub Résumé](https://github.com/resume/resume.github.com) ⭐ 62,890 | 🐛 76 | 🌐 JavaScript | 📅 2023-02-15
+* [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) ⭐ 51,844 | 🐛 10 | 🌐 JavaScript | 📅 2026-08-24: Companies that don't have a broken hiring process.
+* [interview](https://github.com/Olshansk/interview) ⭐ 18,361 | 🐛 12 | 📅 2024-12-25: Everything you need to prepare for your technical interview.
+* [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) ⭐ 17,160 | 🐛 17 | 📅 2026-05-16: Tools of The Trade, from Hacker News.
+* [test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) ⭐ 11,845 | 🐛 19 | 📅 2024-11-19
+* [OpenResume](https://www.open-resume.com/) Create a professional resume easily with this free, open-source, and powerful [resume builder](https://github.com/xitanggg/open-resume) ⭐ 8,872 | 🐛 144 | 🌐 TypeScript | 📅 2024-10-29.
 * [linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions) ⭐ 5,337 | 🐛 7 | 📅 2024-03-11: Collection of Linux Sysadmin/DevOps interview questions
 * [Jobs and Tips for Remote Work](https://github.com/alinebastos/remote) ⭐ 716 | 🐛 11 | 📅 2024-01-31
 * [Programando na Gringa](https://github.com/lbighetti/programando-na-gringa) ⭐ 90 | 🐛 0 | 📅 2021-06-23: Tudo sobre trabalho no exterior
@@ -2068,7 +2068,7 @@
 ## General Fun
 
 * [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) ⚠️ Archived: eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
-* [awesome-scifi](https://github.com/sindresorhus/awesome-scifi) ⭐ 5,023 | 🐛 0 | 📅 2025-12-22: I asked on Twitter for recommendations as I want to get into reading Sci-Fi novels. The below is the result. Thanks everyone for recommending your favorites! :)
+* [awesome-scifi](https://github.com/sindresorhus/awesome-scifi) ⭐ 5,024 | 🐛 0 | 📅 2025-12-22: I asked on Twitter for recommendations as I want to get into reading Sci-Fi novels. The below is the result. Thanks everyone for recommending your favorites! :)
 * [blobs](https://blobs.app): [Blob shapes generator](https://github.com/lokesh-coder/blobs.app) ⭐ 484 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-20
 * [smelvetica](https://github.com/tholman/smelvetica#how-do-i-install-it) ⭐ 136 | 🐛 0 | 📅 2018-10-10: Smelvetica is Helvetica for your best friends, or your worst enemies.
 * (pt-br) [Divulgação Científica](https://docs.google.com/spreadsheets/d/1qXiDGiwXEXVvPMf_Kf-t3qeUnthFGz4GLL3uoCmRQek/edit#gid=105539009), on [github](https://github.com/DivulgacaoCientifica/divulgacaocientifica) ⭐ 34 | 🐛 2 | 📅 2020-08-03.
@@ -2276,7 +2276,7 @@
 
 ## Resources
 
-* [📚 Freely available programming books](https://github.com/EbookFoundation/free-programming-books) ⭐ 395,492 | 🐛 92 | 🌐 Python | 📅 2026-08-18
+* [📚 Freely available programming books](https://github.com/EbookFoundation/free-programming-books) ⭐ 395,554 | 🐛 82 | 🌐 Python | 📅 2026-08-29
 * (pt-br) [Conteúdo gratuito](https://github.com/perifacode/conteudo-gratuito) ⭐ 1,857 | 🐛 37 | 📅 2024-04-17.
 * [Mamont's open FTP Index](http://www.mmnt.net/): a lot of open FTPs!!!
 * [Over 1950 pixel-perfect icons for web design](https://tabler-icons.io/)
@@ -2290,4 +2290,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
