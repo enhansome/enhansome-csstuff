@@ -67,7 +67,7 @@
             "open_issues": 127,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 362262,
+            "stars": 362263,
             "topics": [
               "algorithm",
               "algorithms",
@@ -101,7 +101,7 @@
             "open_issues": 172,
             "owner": "trimstray",
             "repo": "the-book-of-secret-knowledge",
-            "stars": 247533,
+            "stars": 247539,
             "topics": [
               "awesome",
               "awesome-list",
@@ -322,8 +322,8 @@
                 "id": 60246359,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T04:40:11Z",
-                "open_issues": 7991,
+                "last_commit": "2026-10-03T05:17:24Z",
+                "open_issues": 7992,
                 "owner": "ClickHouse",
                 "repo": "ClickHouse",
                 "stars": 50212,
@@ -2108,7 +2108,7 @@
                         "id": 39840932,
                         "language": "C++",
                         "license": "BSD-3-Clause",
-                        "last_commit": "2026-09-30T13:32:14Z",
+                        "last_commit": "2026-10-03T05:21:44Z",
                         "open_issues": 519,
                         "owner": "google",
                         "repo": "googletest",
@@ -2314,7 +2314,7 @@
                     "open_issues": 21,
                     "owner": "vinta",
                     "repo": "awesome-python",
-                    "stars": 324779,
+                    "stars": 324783,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -2378,7 +2378,7 @@
                     "open_issues": 84,
                     "owner": "fastapi",
                     "repo": "fastapi",
-                    "stars": 102772,
+                    "stars": 102774,
                     "topics": [
                       "api",
                       "async",
@@ -2417,7 +2417,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-02T22:34:39Z",
-                    "open_issues": 9739,
+                    "open_issues": 9740,
                     "owner": "python",
                     "repo": "cpython",
                     "stars": 77392,
@@ -2476,7 +2476,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-01T15:55:28Z",
-                    "open_issues": 298,
+                    "open_issues": 299,
                     "owner": "psf",
                     "repo": "black",
                     "stars": 41860,
@@ -2624,7 +2624,7 @@
                     "open_issues": 852,
                     "owner": "kivy",
                     "repo": "kivy",
-                    "stars": 19025,
+                    "stars": 19024,
                     "topics": [
                       "android",
                       "app",
@@ -3722,7 +3722,7 @@
                         "open_issues": 1416,
                         "owner": "dafny-lang",
                         "repo": "dafny",
-                        "stars": 3568,
+                        "stars": 3569,
                         "topics": [
                           "programming-language",
                           "verification"
@@ -3831,7 +3831,7 @@
                         "open_issues": 234,
                         "owner": "avelino",
                         "repo": "awesome-go",
-                        "stars": 186646,
+                        "stars": 186654,
                         "topics": [
                           "awesome",
                           "awesome-list",
@@ -4125,8 +4125,8 @@
                         "id": 842037,
                         "language": "Nim",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-10-03T03:14:38Z",
-                        "open_issues": 2219,
+                        "last_commit": "2026-10-03T05:13:40Z",
+                        "open_issues": 2216,
                         "owner": "nim-lang",
                         "repo": "Nim",
                         "stars": 18249,
@@ -4350,10 +4350,10 @@
                         "language": "V",
                         "license": "MIT",
                         "last_commit": "2026-10-02T23:29:42Z",
-                        "open_issues": 36,
+                        "open_issues": 37,
                         "owner": "vlang",
                         "repo": "v",
-                        "stars": 37935,
+                        "stars": 37934,
                         "topics": [
                           "compiler",
                           "language",
@@ -4376,10 +4376,10 @@
                         "language": "V",
                         "license": "MIT",
                         "last_commit": "2026-10-02T23:29:42Z",
-                        "open_issues": 36,
+                        "open_issues": 37,
                         "owner": "vlang",
                         "repo": "v",
-                        "stars": 37935,
+                        "stars": 37934,
                         "topics": [
                           "compiler",
                           "language",
@@ -4524,7 +4524,7 @@
                         "open_issues": 144,
                         "owner": "MunGell",
                         "repo": "awesome-for-beginners",
-                        "stars": 89807,
+                        "stars": 89808,
                         "topics": [
                           "awesome",
                           "awesome-list",
@@ -4610,7 +4610,7 @@
                         "open_issues": 66,
                         "owner": "github",
                         "repo": "gitignore",
-                        "stars": 176015,
+                        "stars": 176014,
                         "topics": [
                           "git",
                           "gitignore"
@@ -4734,7 +4734,7 @@
                         "open_issues": 1112,
                         "owner": "cli",
                         "repo": "cli",
-                        "stars": 46517,
+                        "stars": 46518,
                         "topics": [
                           "cli",
                           "git",
@@ -5085,7 +5085,7 @@
                         "open_issues": 37,
                         "owner": "nosarthur",
                         "repo": "gita",
-                        "stars": 1946,
+                        "stars": 1947,
                         "topics": [
                           "cli",
                           "command-line",
@@ -5838,7 +5838,7 @@
             "open_issues": 3,
             "owner": "microsoft",
             "repo": "MS-DOS",
-            "stars": 32269,
+            "stars": 32268,
             "topics": [
               "ms-dos"
             ]
@@ -6141,7 +6141,7 @@
             "language": "Java",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T16:05:38Z",
-            "open_issues": 862,
+            "open_issues": 863,
             "owner": "oracle",
             "repo": "graal",
             "stars": 21723,
@@ -6170,7 +6170,7 @@
             "open_issues": 842,
             "owner": "compiler-explorer",
             "repo": "compiler-explorer",
-            "stars": 19109,
+            "stars": 19108,
             "topics": [
               "assembly",
               "c",
@@ -6230,7 +6230,7 @@
                 "open_issues": 24,
                 "owner": "cookiecutter-flask",
                 "repo": "cookiecutter-flask",
-                "stars": 4726,
+                "stars": 4725,
                 "topics": [
                   "bootstrap",
                   "cookiecutter",
@@ -6803,7 +6803,7 @@
                 "open_issues": 2360,
                 "owner": "huggingface",
                 "repo": "transformers",
-                "stars": 166910,
+                "stars": 166912,
                 "topics": [
                   "audio",
                   "deep-learning",
@@ -6844,7 +6844,7 @@
                 "open_issues": 351,
                 "owner": "karpathy",
                 "repo": "nanoGPT",
-                "stars": 63513,
+                "stars": 63512,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:35:35.775Z"
@@ -8708,7 +8708,7 @@
                 "open_issues": 312,
                 "owner": "Wan-Video",
                 "repo": "Wan2.2",
-                "stars": 17700,
+                "stars": 17701,
                 "topics": [
                   "aigc",
                   "video-generation"
@@ -9865,11 +9865,11 @@
                     "id": 65600975,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-03T04:35:31Z",
-                    "open_issues": 17580,
+                    "last_commit": "2026-10-03T05:19:11Z",
+                    "open_issues": 17575,
                     "owner": "pytorch",
                     "repo": "pytorch",
-                    "stars": 103631,
+                    "stars": 103632,
                     "topics": [
                       "autograd",
                       "deep-learning",
@@ -9895,8 +9895,8 @@
                     "id": 305144746,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-03T01:39:46Z",
-                    "open_issues": 170,
+                    "last_commit": "2026-10-03T05:17:55Z",
+                    "open_issues": 169,
                     "owner": "tinygrad",
                     "repo": "tinygrad",
                     "stars": 33693,
@@ -10228,7 +10228,7 @@
                     "id": 45717250,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-03T04:18:42Z",
+                    "last_commit": "2026-10-03T05:24:35Z",
                     "open_issues": 3242,
                     "owner": "tensorflow",
                     "repo": "tensorflow",
@@ -12199,7 +12199,7 @@
                     "open_issues": 937,
                     "owner": "prometheus",
                     "repo": "prometheus",
-                    "stars": 66344,
+                    "stars": 66345,
                     "topics": [
                       "alerting",
                       "graphing",
@@ -13335,7 +13335,7 @@
                 "open_issues": 72,
                 "owner": "libvips",
                 "repo": "libvips",
-                "stars": 11698,
+                "stars": 11699,
                 "topics": [
                   "c",
                   "cpp",
@@ -15108,8 +15108,8 @@
             "id": 3925242,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-03T01:11:51Z",
-            "open_issues": 285,
+            "last_commit": "2026-10-03T05:10:43Z",
+            "open_issues": 286,
             "owner": "bkaradzic",
             "repo": "bgfx",
             "stars": 17531,
@@ -16407,7 +16407,7 @@
             "open_issues": 28,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 209701,
+            "stars": 209702,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -16433,7 +16433,7 @@
             "open_issues": 200,
             "owner": "xiaolai",
             "repo": "the-craft-of-selfteaching",
-            "stars": 17413,
+            "stars": 17416,
             "topics": []
           },
           "first_seen": "2026-08-28T11:35:35.775Z"
@@ -17228,7 +17228,7 @@
             "open_issues": 383,
             "owner": "apache",
             "repo": "flink",
-            "stars": 26377,
+            "stars": 26378,
             "topics": [
               "big-data",
               "flink",
@@ -17492,7 +17492,7 @@
                 "open_issues": 623,
                 "owner": "donnemartin",
                 "repo": "system-design-primer",
-                "stars": 372976,
+                "stars": 372979,
                 "topics": [
                   "design",
                   "design-patterns",
@@ -17527,7 +17527,7 @@
                 "open_issues": 127,
                 "owner": "jwasham",
                 "repo": "coding-interview-university",
-                "stars": 362262,
+                "stars": 362263,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -18041,7 +18041,7 @@
             "open_issues": 85,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 398350,
+            "stars": 398355,
             "topics": [
               "books",
               "education",
@@ -18143,7 +18143,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:40:24.442Z",
+    "last_updated": "2026-10-03T05:32:13.395Z",
     "original_repository_info": {
       "archived": false,
       "description": "CS Stuff is an awesome collection of Computer Science Stuff.",
